@@ -3,7 +3,7 @@ project:
   output-dir: docs
   
 website:
-  title: "CI3:" 
+  title: "CLIP" 
   site-url: ""
   repo-url: "" 
 
