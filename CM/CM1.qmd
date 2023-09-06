@@ -1,5 +1,5 @@
 ---
-title: "Introduction Schéma Cinématiques"
+title: "Introduction"
 subtitle: "But de la Séance: Définir la notion de ..."
 ---
 
