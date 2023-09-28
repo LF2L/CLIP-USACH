@@ -1,7 +1,10 @@
 project:
   type: website
   output-dir: docs
-  
+  preview: 
+    port: 4040
+
+    
 website:
   title: "CLIP" 
   site-url: ""
@@ -43,12 +46,12 @@ website:
     left:
       - text: "Home"
         file: index.qmd    
-      - text: "Cours Magistraux"
+      - text: "Sprints"
         file: CM.qmd    
-      - text: "Travaux Dirigés"
-        file: TD.qmd    
-      - text: "Travaux Pratiques"
-        file: TP.qmd            
+      # - text: "Travaux Dirigés"
+      #   file: TD.qmd    
+      # - text: "Travaux Pratiques"
+      #   file: TP.qmd            
       - text: "Aide"
         menu:
           - text: "Report un Erreur"
@@ -79,25 +82,25 @@ website:
         - CM/CM4.qmd
         - CM/CM5.qmd        
         - CM/CM6.qmd                
-    - title: "Travaux Dirigés"
-      style: "floating"
-      contents:
-        - TD.qmd      
-        - TD/TD1.qmd
-        - TD/TD2.qmd
-    - title: "Travaux Pratiques"
-      style: "floating"
-      contents:
-        - TP.qmd      
-        - TP/TP1.qmd
-        - TP/TP2.qmd        
-        - TP/TP3.qmd
-        - TP/TP4.qmd        
-        - TP/TP5.qmd
-        - TP/TP6.qmd        
-        - TP/TP7.qmd
-        - TP/TP8.qmd 
-        - TP/TP9.qmd                                        
+    # - title: "Travaux Dirigés"
+    #   style: "floating"
+    #   contents:
+    #     - TD.qmd      
+    #     - TD/TD1.qmd
+    #     - TD/TD2.qmd
+    # - title: "Travaux Pratiques"
+    #   style: "floating"
+    #   contents:
+    #     - TP.qmd      
+    #     - TP/TP1.qmd
+    #     - TP/TP2.qmd        
+    #     - TP/TP3.qmd
+    #     - TP/TP4.qmd        
+    #     - TP/TP5.qmd
+    #     - TP/TP6.qmd        
+    #     - TP/TP7.qmd
+    #     - TP/TP8.qmd 
+    #     - TP/TP9.qmd                                        
   page-navigation: true
   back-to-top-navigation: true
 
@@ -130,7 +133,7 @@ execute:
   cache: false
   echo: false
 #freeze: true
-bibliography: references.bib
+bibliography: assets/references.bib
 
 editor: visual
 

@@ -1,6 +1,6 @@
 ---
-title: "Introduction"
-subtitle: "But de la Séance: Définir la notion de ..."
+title: "Fundamentals and Principles"
+subtitle: "Goal of the séance: "
 ---
 
 # Lecture obligatoire
