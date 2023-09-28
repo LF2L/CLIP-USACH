@@ -25,8 +25,7 @@ All the different experiences are articulated under the innovation lab framework
 :::
 
 
-Building on the context analysis and capability mapping started in WP2.1., this incubation program proposes to the CLT to proactively and collectively strategize in terms of the main innovation lab components as shown in the figure below.
-
+Building on the context analysis and capability mapping, this incubation program proposes to the CLT to proactively and collectively strategize in terms of the main innovation lab components as shown in the figure below.
 
 ![](images/02-Structure-CLIP.png)
 
@@ -62,31 +61,30 @@ There are five key action moments throughout the CLIP:
 
     -   At the beginning of the next sprint, the CLT will briefly present to the consortium their results and learnings
 
-> **Participants from each CLT are expected to dedicate 2 hours minimum per week to the CLIP.**
 
+::: {.callout-warning}
+**Participants from each CLT are expected to dedicate 2 hours minimum per week to the CLIP.**
+:::
 ## Successful completion of the program {.unnumbered}
 
 To successfully complete the incubation program, the CLT need to: 
 
 1.  Conduct as a team each one of the workshops that will be assigned in each sprint. 
-
 2.  Upload the workshop results to a non-published website that will constitute the prototype for the strategic design of their ClimateLab.
-
 3.  Share progress at the beginning of each sprint.
-
 4.  Final presentation of the strategic design of the Climate Lab at the mid-project meeting.
 
 ## Operation and online platforms {.unnumbered}
 
 -   All the incubation program content will be available through the **CLIP Website**: [\<https://lf2l.fr/CLIP/\>](https://lf2l.fr/CLIP/){.uri} 
-
 -   Webinars and video calls will be held through **Zoom**.
-
 -   Workshop templates will be available via **MURAL**.
-
 -   Website prototype templates will be provided via **Google Sites**.
 
+
 # Program Schedule {.unnumbered}
+
+
 
 +------------+--------------------------------------------+--------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------+
 | **Sprint** | Object                                     | **Goal(s)**                                                                                                  | **Main Focus**                                                                                                   |
@@ -130,83 +128,28 @@ To successfully complete the incubation program, the CLT need to: 
 
 # CLIP Team {.unnumbered}
 
-## Work-Package Leaders {.unnumbered}
 
--   **Université de Lorraine**
+::: {.callout-tip }
+## Mauricio Camargo
 
-    -   Mauricio Camargo
-
-    -   Fabio Cruz
-
-    -   Ferney Osorio
-
-    -   Fanny Pruvot
-
--   **Pontifícia Universidade Católica do Paraná**
-
-    -   André Turbay
-
-    -   Harry Bollmann
-
-## Mentors {.unnumbered}
-
--   **Universitat Politècnica de València**
-
-::: {.infobox .goal data-latex="{.goal}"}
-**Carola Calabuig** PhD. Industrial Engineer by the Universitat Politècnica de València (UPV), she is full professor of the Department of Engineering Projects at the UPV and currently Academic Director of the Master's Degree in Development Cooperation at the UPV, specializing in Project Management and Development Processes. Her main areas of work and interests are framed in development studies and include: development planning; international cooperation; sustainable development and critical approaches; democratic governance; education for development and global citizenship.
 :::
 
-::: {.infobox .goal data-latex="{.goal}"}
-**Álvaro Fernández-Baldor** works at the Center for Development Cooperation of the Polytechnic University of Valencia (UPV - Spain), and is an associate professor in the Department of Engineering Projects of the UPV. He teaches in the Master of Development Cooperation of the UPV. He has done his PhD researching technological projects from the human development and capabilities approach. He also teaches as a guest lecturer in different fields, especially in cooperation masters in the areas related to engineering and development cooperation. He has field experience in Guatemala, Brazil, Peru and Kenya. In 2007 he received the first prize for the best final project in the IV PFC Competition in the field of technology for human development, for a design of an energy supply in an isolated rural area of Guatemala. In 2015 he has been awarded with the Doctoral Thesis Award for Development Cooperation of the Group-9 Universities.
+::: {.callout-tip }
+## Laure MOREL
+
 :::
 
--   **Università di Genova**
+::: {.callout-tip }
+## Ferney OSORIO
 
-::: {.infobox .goal data-latex="{.goal}"}
-Dr.-Ing. **Paola Alfaro d'Alençon** just started in February 2018 as a DFG-Research Fellow associated to the TU-Berlin, Faculty VI, Habitat Unit with the research project for the DFG: Concepts of Co-production and its influence on the development of inclusive spaces -- An international comparative study on theories and practices". She has 15 years of national and international work experience in research, education, knowledge transfer, and urban management and planning. These experiences are based on the topics of sustainable urban development associated with projects on housing (resilient development through interdisciplinary approaches linked to water management and local production chains, as well as through local solutions); governance, and co-production, with network development and stakeholder, cooperation management on urban and regional development strategies related to subjects of climate change, transport and mobility, and urban resilience.
 :::
 
--   **Ashoka**
+::: {.callout-tip }
+## Fabio CRUZ
 
-::: {.infobox .goal data-latex="{.goal}"}
-**Waldo Soto** is a commercial engineer from the Pontificia Universidad Católica de Chile with a Diploma in Innovation from Babson College, a Diploma in Global Management from University College London, and a MSc in Urban Management from Technical University Berlin. As Director of 2811, Waldo specialises in social innovation and sustainable urban development.
 :::
 
-::: {.infobox .goal data-latex="{.goal}"}
-**Gabriela Carrasco** is director of 2811 and consultant for Ashoka in Latin America. MPA in Social Innovation and Impact Investment at NYU, Commercial Engineer and Political Scientist at the Catholic University of Chile. Contributing to the solution of the challenges of our region through the articulation of actors and the formation of agents of change.
-:::
 
-## Tutorship Groups {.unnumbered}
-
-+--------------------------------------------------------------+------------------------------------------------------------+
-| **Groups of Universities**                                   | **Mentoring Team**                                         |
-+==============================================================+============================================================+
-| **Group 1**                                                  | **Fabio Cruz**, Álvaro Fernández-Baldor, Gabriela Carrasco |
-|                                                              |                                                            |
-| -   Pontifícia Universidade Católica do Paraná               |                                                            |
-|                                                              |                                                            |
-| -   Universidad del Quindio                                  |                                                            |
-|                                                              |                                                            |
-| -   Instituto Tecnológico y Estudios Superiores de Monterrey |                                                            |
-+--------------------------------------------------------------+------------------------------------------------------------+
-| **Group 2**                                                  | **Ferney Osorio**, Carola Calabuig, Harry Bollmann         |
-|                                                              |                                                            |
-| -   Universidade Católica de Pernambuco                      |                                                            |
-|                                                              |                                                            |
-| -   Universidad de Caldas                                    |                                                            |
-|                                                              |                                                            |
-| -   Universidad Tecnológica de Pereira                       |                                                            |
-+--------------------------------------------------------------+------------------------------------------------------------+
-| **Group 3**                                                  | **André Turbay,** Paola Alfaro, Waldo Soto                 |
-|                                                              |                                                            |
-| -   Pontifícia Universidade Católica do Rio Grande do Sul    |                                                            |
-|                                                              |                                                            |
-| -   Corporación Universitaria Minuto de Dios                 |                                                            |
-|                                                              |                                                            |
-| -   Universidad de Manizales                                 |                                                            |
-|                                                              |                                                            |
-| -   Universidad de Guadalajara                               |                                                            |
-+--------------------------------------------------------------+------------------------------------------------------------+
 
 ## Tutorship Schedule {.unnumbered}
 
@@ -239,17 +182,3 @@ In this link will be able to prototype your website :
 -   [Universidad Tecnológica de Pereira](https://sites.google.com/d/1QslfTrR0vOcFVcfr8wZORmnmSbUYcV7E/p/1CflzF0rmBMw7aXllbzIYBNuCU_JUm5fx/edit)
 
 -   [Corporacion Universitaria Minuto de Dios](https://sites.google.com/d/1H32GFcwa8C8TDTQm0AQ6sl8qUHLoYEj9/p/1PdDPvEV-SZTT-4_sUkm31ivHLdgbM86i/edit)
-
-## Mexico {.unnumbered}
-
--   [Instituto Tecnológico y Estudios Superiores de Monterrey](https://sites.google.com/d/1dMeeLPd_tg7iG4oPINaJayhs9rIJSQJ5/p/18_PamorFY22r801VlxNmpjn7Dmd1CPK8/edit)
-
--   [Universidad de Guadalajara](https://sites.google.com/d/1bNgYjiqRrMmkxFDzChc_bZDVLmfB3fus/p/1_EaoX_ylap0XxTofXWHviR0CO1gVljDY/edit)
-
-## Brazil {.unnumbered}
-
--   [Pontifícia Universidade Católica do Rio Grande do Sul](https://sites.google.com/d/1-WzbtIVGZ67XJoQtYwsQQ4fJvTNcx6pf/p/16C-QvbueyFoDRZHUgU2Fulc25wb7MRAe/edit)
-
--   [Pontifícia Universidade Católica do Paraná](https://sites.google.com/d/1aTVKN7wNbXqtU_Tu6FW67_HQcOpZPeVr/p/1CHQ1Nj_ANQFwBXjr7Nw9J8ssYHtdvoaX/edit)
-
--   [Universidade Católica de Pernambuco](https://sites.google.com/d/1qetlenylpCIaKbvpU1inbQ-tDA23veFQ/p/16_ymcQrhMIBPApRC1Pj0wmoO3FxLQi5O/edit)
