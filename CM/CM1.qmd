@@ -65,26 +65,22 @@ knitr::include_url("https://www.youtube.com/embed/2Bh4ZhNqxhc")
 Professor Laure Morel from Université de Lorraine introduces the notion of innovation spaces and how these collaborative structures can play a major role in fostering social innovation for climate change. This presentation is based on her book chapter "Innovation spaces: new places for collective intelligence?" [@Morel2018].
 
 
-
 ## Case Experiences
 
 ### Universitat Politècnica de València
 
-```{r}
-knitr::include_url("https://www.youtube.com/embed/uMQr1uIiRD0")
-```
+
+{{< video https://www.youtube.com/embed/uMQr1uIiRD0 >}}
 
 Professor Carola Calabuig shares her experience and vision on social innovation at the INGENIO Research Institute of the Universitat Politècnica de València. She emphasizes the importance of the collective and grassroots dimension of innovation processes that happen outside the dominant or traditional spaces of knowledge generation.
 
 ### Universidad de Guadalajara
 
-```{r}
-knitr::include_url("https://www.youtube.com/embed/J0mUmCHkabo")
-```
+{{< video https://www.youtube.com/embed/J0mUmCHkabo >}}
 
 Professor Javier Garcia of the Universidad de Guadalajara gives an overview of the project Carbon footprint measurement for the generation of sustainable strategies in avocado crops.
 
-------------------------------------------------------------------------
+
 
 ## Team Workshop 1
 
