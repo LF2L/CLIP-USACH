@@ -5,15 +5,12 @@ subtitle: "Goal of the séance: "
 
 # Lecture obligatoire
 
-
-# Slides of the session
+Test desde fabio
 
 
 # Fundamentals and Principles {#intro}
 
 ## Sprint Opening
-
-![Image]()
 
 Welcome to the first sprint of the CLIP. Here we are going to focus con the Fundamentals and Principles for the Innovation Spaces
 
