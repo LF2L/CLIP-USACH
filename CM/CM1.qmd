@@ -5,7 +5,9 @@ subtitle: "Goal of the séance: "
 
 # Lecture obligatoire
 
-Test desde fabio
+
+test desde pc de ferney
+
 
 
 # Fundamentals and Principles {#intro}
@@ -14,17 +16,13 @@ Test desde fabio
 
 Welcome to the first sprint of the CLIP. Here we are going to focus con the Fundamentals and Principles for the Innovation Spaces
 
-
-
-::: {.callout-note}
+::: callout-note
 ## Goal of this sprint
 
 The main goal in this sprint is to build your **Climate Lab Manifesto**
 
 > *Sprint dates: **From April 9 to April 29***
-
 :::
-
 
 A webinar will be held on April 9 to officially launch the incubation program. It will be a synchronous session, so all CLT are expected to attend. In addition, a series of contents and activities are proposed to the CLT to be completed during the sprint:
 
@@ -50,22 +48,17 @@ knitr::include_url("https://www.youtube.com/embed/2Bh4ZhNqxhc")
 
 ## Conceptual Videos
 
-
 ### What is Social Innovation? - Gabriela Carrasco
-
 
 ### Innovation Spaces - Laure Morel
 
 {{< video https://www.youtube.com/embed/18fC47uXhxo >}}
 
-
 Professor Laure Morel from Université de Lorraine introduces the notion of innovation spaces and how these collaborative structures can play a major role in fostering social innovation for climate change. This presentation is based on her book chapter "Innovation spaces: new places for collective intelligence?" [@Morel2018].
-
 
 ## Case Experiences
 
 ### Universitat Politècnica de València
-
 
 {{< video https://www.youtube.com/embed/uMQr1uIiRD0 >}}
 
@@ -76,8 +69,6 @@ Professor Carola Calabuig shares her experience and vision on social innovation 
 {{< video https://www.youtube.com/embed/J0mUmCHkabo >}}
 
 Professor Javier Garcia of the Universidad de Guadalajara gives an overview of the project Carbon footprint measurement for the generation of sustainable strategies in avocado crops.
-
-
 
 ## Team Workshop 1
 
@@ -112,4 +103,3 @@ Here you can find for each University the link to the sprint 1 workshop:
 ## Let us know your comments
 
 In this section, you can put any comments/questions or share your thoughts and feedback about this sprint. To insert new text, use the "Edit" button.
-
