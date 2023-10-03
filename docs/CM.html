@@ -1,0 +1,795 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.3.450">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>CLIP - Introduction to CLIP - USACH</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
+
+
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/quarto-nav/headroom.min.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
+<link href="./CM/CM1.html" rel="next">
+<script src="site_libs/quarto-html/quarto.js"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 20,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+<script>
+window.MathJax = {
+  loader: {
+    load: ['[tex]/physics']
+  },
+  tex: {
+    packages: {'[+]': ['physics']}
+  }
+};
+</script>    
+
+
+</head>
+
+<body class="nav-sidebar floating nav-fixed">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg navbar-dark ">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container">
+    <a href="./index.html" class="navbar-brand navbar-brand-logo">
+    <img src="./cover.png" alt="Quarto logo." class="navbar-logo">
+    </a>
+    <a class="navbar-brand" href="./index.html">
+    <span class="navbar-title">CLIP</span>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="./index.html" rel="" target="">
+ <span class="menu-text">Home</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link active" href="./CM.html" rel="" target="" aria-current="page">
+ <span class="menu-text">Sprints</span></a>
+  </li>  
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-aide" role="button" data-bs-toggle="dropdown" aria-expanded="false" rel="" target="">
+ <span class="menu-text">Aide</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-aide">    
+        <li class="dropdown-header">Report un Erreur</li>
+        <li class="dropdown-header">Demandez une Question</li>
+        <li class="dropdown-header">FAQ</li>
+    </ul>
+  </li>
+</ul>
+            <div class="quarto-navbar-tools ms-auto">
+    <a href="https://twitter.com/fabbiocrux" rel="" title="Quarto Twitter" class="quarto-navigation-tool px-1" aria-label="Quarto Twitter"><i class="bi bi-twitter"></i></a>
+    <a href="https://github.com/fabbiocrux/MdP" rel="" title="MdP GitHub" class="quarto-navigation-tool px-1" aria-label="MdP GitHub"><i class="bi bi-github"></i></a>
+</div>
+          </div> <!-- /navcollapse -->
+      </div> <!-- /container-fluid -->
+    </nav>
+  <nav class="quarto-secondary-nav">
+    <div class="container-fluid d-flex">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+        <i class="bi bi-layout-text-sidebar-reverse"></i>
+      </button>
+      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./CM.html">Introduction to CLIP - USACH</a></li></ol></nav>
+      <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+      </a>
+    </div>
+  </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal sidebar-navigation floating overflow-auto">
+    <div class="sidebar-menu-container"> 
+    <ul class="list-unstyled mt-1">
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./CM.html" class="sidebar-item-text sidebar-link active">
+ <span class="menu-text">Introduction to CLIP - USACH</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./CM/CM1.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Fundamentals and Principles</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./CM/CM2.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Strategic Intent &amp; Process of Creation</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./CM/CM3.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Physical Embodiment</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./CM/CM4.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Process of Use &amp; Outcomes</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./CM/CM5.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Assessment &amp; Adaptation</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./CM/CM6.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Pilot Project</span></a>
+  </div>
+</li>
+    </ul>
+    </div>
+</nav>
+<div id="quarto-sidebar-glass" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass"></div>
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#program-description" id="toc-program-description" class="nav-link active" data-scroll-target="#program-description"><span class="header-section-number">1</span> Program Description</a>
+  <ul class="collapse">
+  <li><a href="#methodology" id="toc-methodology" class="nav-link" data-scroll-target="#methodology"><span class="header-section-number">1.1</span> Methodology</a></li>
+  <li><a href="#key-action-moments" id="toc-key-action-moments" class="nav-link" data-scroll-target="#key-action-moments"><span class="header-section-number">1.2</span> Key Action Moments</a></li>
+  <li><a href="#successful-completion-of-the-program" id="toc-successful-completion-of-the-program" class="nav-link" data-scroll-target="#successful-completion-of-the-program">Successful completion of the program</a></li>
+  <li><a href="#operation-and-online-platforms" id="toc-operation-and-online-platforms" class="nav-link" data-scroll-target="#operation-and-online-platforms">Operation and online platforms</a></li>
+  </ul></li>
+  <li><a href="#program-schedule" id="toc-program-schedule" class="nav-link" data-scroll-target="#program-schedule">Program Schedule</a></li>
+  <li><a href="#clip-team" id="toc-clip-team" class="nav-link" data-scroll-target="#clip-team">CLIP Team</a>
+  <ul class="collapse">
+  <li><a href="#tutorship-schedule" id="toc-tutorship-schedule" class="nav-link" data-scroll-target="#tutorship-schedule">Tutorship Schedule</a></li>
+  </ul></li>
+  <li><a href="#prototyping-your-climate-lab" id="toc-prototyping-your-climate-lab" class="nav-link" data-scroll-target="#prototyping-your-climate-lab">Prototyping your Climate Lab</a>
+  <ul class="collapse">
+  <li><a href="#colombia" id="toc-colombia" class="nav-link" data-scroll-target="#colombia">Colombia</a></li>
+  </ul></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Introduction to CLIP - USACH</h1>
+<p class="subtitle lead">An overview of the program</p>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+</header>
+
+<section id="program-description" class="level1" data-number="1">
+<h1 data-number="1"><span class="header-section-number">1</span> Program Description</h1>
+<section id="methodology" class="level2" data-number="1.1">
+<h2 data-number="1.1" class="anchored" data-anchor-id="methodology"><span class="header-section-number">1.1</span> Methodology</h2>
+<p>The incubation program is structured in six sprints in which participants are introduced to a set of conceptual material together with specific strategic workshops. The CLIP has a duration of six months starting from <strong>XXX/2023 - XXX / 2024</strong>.</p>
+<p>Each sprint has specific goals that the CLT should fulfill in order to successfully complete the program. The results of each sprint are to be uploaded to the website assigned to each team. The website will serve as a prototype for the strategic design of the Innovation Labs that the CLT can ultimately use to validate their proposals with other stakeholders, and as a dissemination tool for their local Climate Lab initiative.</p>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+The scientific baseline of this program.
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>The incubation program is conceived as a collective pool of knowledge and therefore brings together various methods, practices and tools shared by consortium members and invited experts. All the different experiences are articulated under the innovation lab framework that has been developed by the ERPI of Université de Lorraine as part of its research strand in fostering collaborative innovation processes <span class="citation" data-cites="Osorio2019">(<a href="#ref-Osorio2019" role="doc-biblioref">Osorio et al. 2019</a>)</span>.</p>
+</div>
+</div>
+<p>Building on the context analysis and capability mapping, this incubation program proposes to the CLT to proactively and collectively strategize in terms of the main innovation lab components as shown in the figure below.</p>
+<p><img src="images/02-Structure-CLIP.png" class="img-fluid"></p>
+</section>
+<section id="key-action-moments" class="level2" data-number="1.2">
+<h2 data-number="1.2" class="anchored" data-anchor-id="key-action-moments"><span class="header-section-number">1.2</span> Key Action Moments</h2>
+<p>There are five key action moments throughout the CLIP:</p>
+<ul>
+<li><p><strong>Sprint opening</strong> (1h30 per sprint)</p>
+<ul>
+<li>Synchronous webinar via Zoom in which sprint goals and main activities are presented to CLT</li>
+</ul></li>
+<li><p><strong>Online material</strong> (Between 1h and 1h30 of video content per sprint)</p>
+<ul>
+<li><p>CLT can access the online material via the CLIP website. Content is composed by conceptual videos, case experiences and complimentary readings</p></li>
+<li><p>Members of CLT should access this content prior conducting each workshop</p></li>
+</ul></li>
+<li><p><strong>Team workshops</strong> (Between 1h30 and 2h per workshop)</p>
+<ul>
+<li><p>Each sprint proposes to the CLT a strategic workshop that should be conducted as a team</p></li>
+<li><p>Workshops templates are provided via the Mural platform</p></li>
+</ul></li>
+<li><p><strong>Tutorships</strong> (1h30 per sprint)</p>
+<ul>
+<li><p>Intermediary check-ins via Zoom are proposed to the CLT in the forms of Q&amp;A sessions</p></li>
+<li><p>This is the moment for CLT to exchange with their mentors and guest experts to share their experiences or ask questions regarding the ongoing sprint’s goal.</p></li>
+</ul></li>
+<li><p><strong>Upload and share sprint results</strong></p>
+<ul>
+<li><p>By the end of each sprint, the CLT should upload their workshop results to their Climate Lab website prototype</p></li>
+<li><p>At the beginning of the next sprint, the CLT will briefly present to the consortium their results and learnings</p></li>
+</ul></li>
+</ul>
+<div class="callout callout-style-default callout-warning callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Warning
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><strong>Participants from each CLT are expected to dedicate 2 hours minimum per week to the CLIP.</strong></p>
+</div>
+</div>
+</section>
+<section id="successful-completion-of-the-program" class="level2 unnumbered">
+<h2 class="unnumbered anchored" data-anchor-id="successful-completion-of-the-program">Successful completion of the program</h2>
+<p>To successfully complete the incubation program, the CLT need to:&nbsp;</p>
+<ol type="1">
+<li>Conduct as a team each one of the workshops that will be assigned in each sprint.&nbsp;</li>
+<li>Upload the workshop results to a non-published website that will constitute the prototype for the strategic design of their ClimateLab.</li>
+<li>Share progress at the beginning of each sprint.</li>
+<li>Final presentation of the strategic design of the Climate Lab at the mid-project meeting.</li>
+</ol>
+</section>
+<section id="operation-and-online-platforms" class="level2 unnumbered">
+<h2 class="unnumbered anchored" data-anchor-id="operation-and-online-platforms">Operation and online platforms</h2>
+<ul>
+<li>All the incubation program content will be available through the <strong>CLIP Website</strong>: <a href="https://lf2l.fr/CLIP/" class="uri">&lt;https://lf2l.fr/CLIP/&gt;</a>&nbsp;</li>
+<li>Webinars and video calls will be held through <strong>Zoom</strong>.</li>
+<li>Workshop templates will be available via <strong>MURAL</strong>.</li>
+<li>Website prototype templates will be provided via <strong>Google Sites</strong>.</li>
+</ul>
+</section>
+</section>
+<section id="program-schedule" class="level1 unnumbered">
+<h1 class="unnumbered">Program Schedule</h1>
+<table class="table">
+<colgroup>
+<col style="width: 4%">
+<col style="width: 15%">
+<col style="width: 38%">
+<col style="width: 40%">
+</colgroup>
+<thead>
+<tr class="header">
+<th><strong>Sprint</strong></th>
+<th style="text-align: left;">Object</th>
+<th style="text-align: left;"><strong>Goal(s)</strong></th>
+<th style="text-align: left;"><strong>Main Focus</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>I</td>
+<td style="text-align: left;"><p><strong>Fundamentals &amp; Principles</strong></p>
+<p>3 weeks</p>
+<p>From 09/04/21 to 29/04/21</p></td>
+<td style="text-align: left;">- Build the Climate Lab Manifesto</td>
+<td style="text-align: left;"><p>- Set the stage in terms of Climate Change, Social Innovation and Innovation Lab</p>
+<p><br>
+</p>
+<p>- Teams focus on defining the CLT purpose</p></td>
+</tr>
+<tr class="even">
+<td>II</td>
+<td style="text-align: left;"><p><strong>Strategic Intent &amp; Process of Creation</strong></p>
+<p>4 weeks</p>
+<p>From 30/04/21 to 27/05/21</p></td>
+<td style="text-align: left;"><p>- Define the Climate Lab’s vision and objectives</p>
+<p><br>
+</p>
+<p>- Design of the social innovation process</p></td>
+<td style="text-align: left;"><p>- The importance of building a collective strategic intent</p>
+<p><br>
+</p>
+<p>- Innovation labs facilitate innovation processes: what is the social innovation process for your Climate Lab?</p></td>
+</tr>
+<tr class="odd">
+<td>III</td>
+<td style="text-align: left;"><p><strong>Physical Embodiment</strong></p>
+<p>4 weeks</p>
+<p>From 28/05/21 to 01/07/21</p></td>
+<td style="text-align: left;">- Translate the Climate Lab’s vision into a technological resource roadmap</td>
+<td style="text-align: left;"><p>- Management of technological resources</p>
+<p><br>
+</p>
+<p>- Spaces to support social innovation</p></td>
+</tr>
+<tr class="even">
+<td>IV</td>
+<td style="text-align: left;"><p><strong>Process of Use &amp; Outcomes</strong></p>
+<p><del>6</del> 8 weeks (including summer break)</p>
+<p>From 02/07/21 to 02/09/21</p></td>
+<td style="text-align: left;"><p><del>- Design the business model &amp; local strategy of the Climate Lab</del></p>
+<p>- To round out your Climate Lab’s strategic design and present your intent to all members of the Consortium</p></td>
+<td style="text-align: left;">- The role of innovation labs in universities and climate change</td>
+</tr>
+<tr class="odd">
+<td>V</td>
+<td style="text-align: left;"><p><strong>Assessment &amp; Adaptation</strong></p>
+<p><del>4</del> 3 weeks</p>
+<p>From 03/09/21 to 23/09/21</p></td>
+<td style="text-align: left;">- Assess the Climate Lab performance</td>
+<td style="text-align: left;">- Practices for a more creative, resilient and enduring operation</td>
+</tr>
+<tr class="even">
+<td>VI</td>
+<td style="text-align: left;"><p><strong>Pilot Project</strong></p>
+<p>3 weeks</p>
+<p>From 24/09/21 to 15/10/21</p></td>
+<td style="text-align: left;">- Set-up of the local Climate Lab pilot project</td>
+<td style="text-align: left;">- Moving from strategic to operational level: applying the living lab approach</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="clip-team" class="level1 unnumbered">
+<h1 class="unnumbered">CLIP Team</h1>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Mauricio Camargo
+</div>
+</div>
+<div class="callout-body-container callout-body">
+
+</div>
+</div>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Laure MOREL
+</div>
+</div>
+<div class="callout-body-container callout-body">
+
+</div>
+</div>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Ferney OSORIO
+</div>
+</div>
+<div class="callout-body-container callout-body">
+
+</div>
+</div>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Fabio CRUZ
+</div>
+</div>
+<div class="callout-body-container callout-body">
+
+</div>
+</div>
+<section id="tutorship-schedule" class="level2 unnumbered">
+<h2 class="unnumbered anchored" data-anchor-id="tutorship-schedule">Tutorship Schedule</h2>
+<p>All tutorship sessions will be held in parallel rooms via Zoom at 16h00 CET - 9:00am COL/MEX - 11:00am BRA</p>
+<ul>
+<li><p>Session 1 - 23/04/2021</p></li>
+<li><p>Session 2 - 14/05/2021</p></li>
+<li><p>Session 3 - 11/06/2021</p></li>
+<li><p>Session 4 - <del>09/07/21</del> 27/08/2021 - Let’s test your pitch!</p></li>
+<li><p>Session 5 - 10/09/2021 - Present your pitch to the Climate Lab External Committee!</p></li>
+<li><p>Session 6 - 08/10/2021</p></li>
+</ul>
+</section>
+</section>
+<section id="prototyping-your-climate-lab" class="level1 unnumbered">
+<h1 class="unnumbered">Prototyping your Climate Lab</h1>
+<section id="colombia" class="level2 unnumbered">
+<h2 class="unnumbered anchored" data-anchor-id="colombia">Colombia</h2>
+<p>In this link will be able to prototype your website :</p>
+<ul>
+<li><p><a href="https://sites.google.com/d/1pL3lPApfBU9OLEuKKYBZXeXeYRb-jaE-/p/1tui6PT_kfWJ98nbQqok9pOKUDlXlUtG5/edit">Universidad de Caldas</a></p></li>
+<li><p><a href="https://sites.google.com/d/1CI-a9gJAyL9dL61FLLTkz73RuzQpgou8/p/1Bu6lxthfwOrrqB1COUU6-f5LhRk0Nsky/edit">Universidad del Quindio</a></p></li>
+<li><p><a href="https://sites.google.com/d/1kdjgO68GGG1lxXVCX68pGhlEp1vYXeA4/p/1nyWSv7ycqrfRRE6af-KGqCkgAMEVzDeJ/edit">Universidad de Manizales</a></p></li>
+<li><p><a href="https://sites.google.com/d/1QslfTrR0vOcFVcfr8wZORmnmSbUYcV7E/p/1CflzF0rmBMw7aXllbzIYBNuCU_JUm5fx/edit">Universidad Tecnológica de Pereira</a></p></li>
+<li><p><a href="https://sites.google.com/d/1H32GFcwa8C8TDTQm0AQ6sl8qUHLoYEj9/p/1PdDPvEV-SZTT-4_sUkm31ivHLdgbM86i/edit">Corporacion Universitaria Minuto de Dios</a></p></li>
+</ul>
+
+
+
+</section>
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" role="list">
+<div id="ref-Osorio2019" class="csl-entry" role="listitem">
+Osorio, Ferney, Laurent Dupont, Mauricio Camargo, Pedro Palominos, José Ismael Peña, and Miguel Alfaro. 2019. <span>“Design and Management of Innovation Laboratories: <span>Toward</span> a Performance Assessment Tool.”</span> <em>Creativity and Innovation Management</em> 28 (1): 82–100. <a href="https://doi.org/10.1111/caim.12301">https://doi.org/10.1111/caim.12301</a>.
+</div>
+</div></section></div></main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+  function tippyHover(el, contentFn) {
+    const config = {
+      allowHTML: true,
+      content: contentFn,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start'
+    };
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      return note.innerHTML;
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+<nav class="page-navigation">
+  <div class="nav-page nav-page-previous">
+  </div>
+  <div class="nav-page nav-page-next">
+      <a href="./CM/CM1.html" class="pagination-link">
+        <span class="nav-page-text">Fundamentals and Principles</span> <i class="bi bi-arrow-right-short"></i>
+      </a>
+  </div>
+</nav>
+</div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">Développé par <a href="https://www.ensgsi.univ-lorraine.fr/"><img src="https://raw.githubusercontent.com/fabbiocrux/Figures/main/Logos/ENSGSI/2022/Lorraine%20INP%20ENSGSI%20RS%20(couleur%2C%20CMJN).png" class="img-fluid" alt="ENSGSI" width="65"></a></div>   
+    <div class="nav-footer-center">
+      <ul class="footer-items list-unstyled">
+    <li class="nav-item">
+ About
+  </li>  
+    <li class="nav-item">
+ FAQ
+  </li>  
+    <li class="nav-item">
+ License
+  </li>  
+    <li class="nav-item">
+ Trademark
+  </li>  
+</ul>
+    </div>
+    <div class="nav-footer-right">
+      <ul class="footer-items list-unstyled">
+    <li class="nav-item compact">
+      <i class="bi bi-twitter" role="img" aria-label="Quarto Twitter">
+</i> 
+  </li>  
+    <li class="nav-item compact">
+    <a class="nav-link" href="https://github.com/fabbiocrux/CI3">
+      <i class="bi bi-github" role="img" aria-label="Quarto GitHub">
+</i> 
+    </a>
+  </li>  
+    <li class="nav-item compact">
+    <a class="nav-link" href="https://quarto.org/docs/blog/index.xml">
+      <i class="bi bi-rss" role="img" aria-label="Quarto Blog RSS">
+</i> 
+    </a>
+  </li>  
+</ul>
+    </div>
+  </div>
+</footer>
+
+
+
+</body></html>
