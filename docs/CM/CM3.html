@@ -20,7 +20,26 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="../site_libs/quarto-nav/quarto-nav.js"></script>
@@ -83,7 +102,7 @@ window.MathJax = {
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container">
     <a href="../index.html" class="navbar-brand navbar-brand-logo">
-    <img src="../cover.png" alt="Quarto logo." class="navbar-logo">
+    <img src="../assets/img/ENSGSI.png" alt="Quarto logo." class="navbar-logo">
     </a>
     <a class="navbar-brand" href="../index.html">
     <span class="navbar-title">CLIP</span>
@@ -229,11 +248,21 @@ window.MathJax = {
 </section>
 <section id="bibliographie" class="level1" data-number="4">
 <h1 data-number="4"><span class="header-section-number">4</span> Bibliographie</h1>
+<p>this is a cutation <span class="citation" data-cites="Roux-Marchand2020 Rowley2004">(<a href="#ref-Roux-Marchand2020" role="doc-biblioref">Roux-Marchand et al. 2020</a>; <a href="#ref-Rowley2004" role="doc-biblioref">Rowley and Stack 2004</a>)</span></p>
+<p><span class="citation" data-cites="Bustamante2015">(<a href="#ref-Bustamante2015" role="doc-biblioref"><strong>Bustamante2015?</strong></a>)</span></p>
+
 
 
 </section>
 
-<a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a></main> <!-- /main -->
+<a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" role="list">
+<div id="ref-Roux-Marchand2020" class="csl-entry" role="listitem">
+Roux-Marchand, Thibaut, Fabio Cruz, Laurent Dupont, Mauricio Camargo, and Ferney Osorio. 2020. <span>“Connecting the Strategic Intent of Innovation Labs and Projects: The Case of the <span>Green Fablab</span>.”</span> In <em>2020 <span>IEEE International Conference</span> on <span>Engineering</span>, <span>Technology</span> and <span>Innovation</span> (<span>ICE</span>/<span>ITMC</span>)</em>, 1–10. <span>IEEE</span>. <a href="https://doi.org/10.1109/ICE/ITMC49519.2020.9198320">https://doi.org/10.1109/ICE/ITMC49519.2020.9198320</a>.
+</div>
+<div id="ref-Rowley2004" class="csl-entry" role="listitem">
+Rowley, Jennifer, and Frances Stack. 2004. <span>“Conducting a <span>Literature Review</span>.”</span> <em>Management Research News</em> 27 (6): 31–39. <a href="https://doi.org/10.1108/01409170410784185">https://doi.org/10.1108/01409170410784185</a>.
+</div>
+</div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
