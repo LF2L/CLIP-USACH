@@ -7,8 +7,6 @@ subtitle: "Goal of the séance: "
 
 test desde pc de ferney
 
-
-
 # Fundamentals and Principles {#intro}
 
 ## Sprint Opening
