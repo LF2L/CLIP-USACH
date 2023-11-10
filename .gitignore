@@ -4,5 +4,6 @@
 .Ruserdata
 _bibliography/
 /.quarto/
-
+.DS_Store
+Slides/
 /.luarc.json

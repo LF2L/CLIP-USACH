@@ -5,13 +5,15 @@ subtitle: "Goal of the séance: "
 
 # Lecture obligatoire
 
-test desde pc de ferney
+bqkqkqkk
+
+test desde pc de sebastian
+
+this is a tes
 
 # Fundamentals and Principles {#intro}
 
 ## Sprint Opening
-
-![Image]()
 
 Welcome to the first sprint of the CLIP. Here we are going to focus con the Fundamentals and Principles for the Innovation Spaces
 
