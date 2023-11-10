@@ -5,13 +5,10 @@ subtitle: ""
 
 # Lecture
 
-
 # Slides
 
-
+changes from ferney
 
 # Idé
 
-
 # Bibliographie
-
