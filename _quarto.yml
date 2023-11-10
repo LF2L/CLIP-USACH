@@ -39,7 +39,7 @@ website:
 
   navbar:
     background: light
-    logo: cover.png
+    logo: assets/img/ENSGSI.png
     logo-alt: "Quarto logo."
 #    title: true
     collapse-below: lg
