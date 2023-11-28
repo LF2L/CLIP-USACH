@@ -3,15 +3,6 @@ title: "Assessment & Adaptation"
 subtitle: ""
 ---
 
-# Lecture
-
-
-# Slides
-
-
-
-# Idé
-
-
-# Bibliographie
-
+::: {.callout-note}
+# 🕦 Disponible en Marzo 2024
+:::

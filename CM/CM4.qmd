@@ -3,15 +3,6 @@ title: "Process of Use & Outcomes"
 subtitle: ""
 ---
 
-# Lecture
-
-
-# Slides
-
-
-
-# Idé
-
-
-# Bibliographie
-
+::: {.callout-note}
+# 🕦 Disponible en Febrero 2024
+:::

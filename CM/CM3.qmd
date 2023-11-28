@@ -3,17 +3,6 @@ title: "Physical Embodiment"
 subtitle: ""
 ---
 
-# Lecture
-
-# Slides
-
-changes from ferney
-
-# Idé
-
-# Bibliographie
-
-this is a cutation
-[@Roux-Marchand2020; @Rowley2004]
-
-@Bustamante2015
+::: {.callout-note}
+# 🕦 Disponible en Enero 2024
+::
