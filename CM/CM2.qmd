@@ -1,5 +1,5 @@
 ---
-title: "Strategic Intent & Process of Creation"
+title: "Intención Estratégica y Proceso de Creación"
 subtitle: ""
 ---
 
@@ -8,3 +8,4 @@ subtitle: ""
 # 🕦 Disponible en Diciembre 2023
 :::
 
+<iframe src="https://giphy.com/embed/0U7bWQK9s75PjRKcHz" width="480" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p></p>

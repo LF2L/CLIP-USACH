@@ -3,4 +3,10 @@ title: "Pilot Project"
 subtitle: ""
 ---
 
-# Disponible en Junio 2024
+::: {.callout-note}
+# 🕦 Disponible en Abril 2024
+:::
+
+
+
+<iframe src="https://giphy.com/embed/0U7bWQK9s75PjRKcHz" width="480" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p></p>

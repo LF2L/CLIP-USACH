@@ -1,19 +1,10 @@
 ---
-title: "Fundamentals and Principles"
-subtitle: "Goal of the séance: "
+title: "Principios y fundamentos"
+subtitle: "Objetivo: "
 ---
 
-# Lecture obligatoire
 
-test desde pc de sebastian
-
-this is a tes
-
-# Fundamentals and Principles {#intro}
-
-## Sprint Opening
-
-Welcome to the first sprint of the CLIP. Here we are going to focus con the Fundamentals and Principles for the Innovation Spaces
+# Bienvenidos
 
 ::: callout-note
 ## Goal of this sprint
@@ -23,82 +14,18 @@ The main goal in this sprint is to build your **Climate Lab Manifesto**
 > *Sprint dates: **From April 9 to April 29***
 :::
 
-A webinar will be held on April 9 to officially launch the incubation program. It will be a synchronous session, so all CLT are expected to attend. In addition, a series of contents and activities are proposed to the CLT to be completed during the sprint:
-
-1.  Firstly, you will find **three conceptual videos** which are proposed to open the discussion on the three thematic pillars that constitute the Climate Lab project: Climate Change, Social Innovation and Innovation Labs.
-
-2.  Secondly, **two case experiences** from members of the consortium are shared. This way we can learn a little more about the experience of each of the CLT.
-
-3.  Next, you will find the link to the **team workshop** of this sprint. The workshop should be completed before the end of the sprint (**April 29**).
-
-4.  And finally, **complementary readings** are offered for those who would like to further explore the topics addressed in this sprint.
-
-::: {.infobox .tip data-latex="{.assignment}"}
-**NOTICE!**
-
-The [**full recording of the webinar** can be watched below. Alternatively, you can access the slides from the webinar here](https://drive.google.com/file/d/1d9LqoS8m5x47GpLhOdGzTJdwOGSDnFwj/view?usp=sharing).
-:::
-
-```{r}
-knitr::include_url("https://www.youtube.com/embed/2Bh4ZhNqxhc")
-```
 
 ------------------------------------------------------------------------
 
-## Conceptual Videos
+# Videos Conceptuales
 
-### What is Social Innovation? - Gabriela Carrasco
+## Innovación como un Sistema - Mauricio Camargo
 
-### Innovation Spaces - Laure Morel
+## Espacios de Innovación- Laure Morel
 
 {{< video https://www.youtube.com/embed/18fC47uXhxo >}}
 
 Professor Laure Morel from Université de Lorraine introduces the notion of innovation spaces and how these collaborative structures can play a major role in fostering social innovation for climate change. This presentation is based on her book chapter "Innovation spaces: new places for collective intelligence?" [@Morel2018].
 
-## Case Experiences
+## Diséno para la durabilidada - Fabio Cruz
 
-### Universitat Politècnica de València
-
-{{< video https://www.youtube.com/embed/uMQr1uIiRD0 >}}
-
-Professor Carola Calabuig shares her experience and vision on social innovation at the INGENIO Research Institute of the Universitat Politècnica de València. She emphasizes the importance of the collective and grassroots dimension of innovation processes that happen outside the dominant or traditional spaces of knowledge generation.
-
-### Universidad de Guadalajara
-
-{{< video https://www.youtube.com/embed/J0mUmCHkabo >}}
-
-Professor Javier Garcia of the Universidad de Guadalajara gives an overview of the project Carbon footprint measurement for the generation of sustainable strategies in avocado crops.
-
-## Team Workshop 1
-
-Here you can find for each University the link to the sprint 1 workshop:
-
-## Colombia {.unnumbered}
-
--   [Universidad de Caldas](https://app.mural.co/t/climatelabs8815/m/climatelabs8815/1616675648741/c2ce6b3dfa94dc38dbd1d84b626eb431b384b0ce)
-
--   [Universidad del Quindio](https://app.mural.co/t/climatelabs8815/m/climatelabs8815/1616675741457/f922ea23c9660f9a14ac1c91ff7e89b7d0b3d080)
-
--   [Universidad de Manizales](https://app.mural.co/t/climatelabs8815/m/climatelabs8815/1616675702123/dc11760127e13af1e59a5575681bda5cfe633597)
-
--   [Universidad Tecnológica de Pereira](https://app.mural.co/t/climatelabs8815/m/climatelabs8815/1616675755540/5bc719c6f778fd04d56cea49018abe9625f58f33)
-
--   [Corporacion Universitaria Minuto de Dios](https://app.mural.co/t/climatelabs8815/m/climatelabs8815/1616675729753/e52a7d6a35ef34d45facc76dd1954c84b6bb1899)
-
-## Mexico {.unnumbered}
-
--   [Instituto Tecnológico y Estudios Superiores de Monterrey](https://app.mural.co/t/climatelabs8815/m/climatelabs8815/1616675559523/b7b4daa571c961a087610e1ee45d23656f4478e1)
-
--   [Universidad de Guadalajara](https://app.mural.co/t/climatelabs8815/m/climatelabs8815/1616675685168/778690af833bddde7f5defb515d485d9661f73ad)
-
-## Brazil {.unnumbered}
-
--   [Pontifícia Universidade Católica do Rio Grande do Sul](https://app.mural.co/t/climatelabs8815/m/climatelabs8815/1616675651832/fd916ddfef68c5a40ea5bb79c4f0180341392bb8)
-
--   [Pontifícia Universidade Católica Do Paraná](https://app.mural.co/t/climatelabs8815/m/climatelabs8815/1616675588772/acac787fc9e21dc3995a307aff1cc2572f1422de)
-
--   [Universidade Católica de Pernambuco](https://app.mural.co/t/climatelabs8815/m/climatelabs8815/1616675715846/7d87fc7bf493a5877d434f08c408d16de43a94f7)
-
-## Let us know your comments
-
-In this section, you can put any comments/questions or share your thoughts and feedback about this sprint. To insert new text, use the "Edit" button.
