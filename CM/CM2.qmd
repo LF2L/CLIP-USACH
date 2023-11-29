@@ -4,8 +4,6 @@ subtitle: ""
 ---
 
 
-
-
 ::: {.callout-note}
 # 🕦 Disponible en Diciembre 2023
 :::

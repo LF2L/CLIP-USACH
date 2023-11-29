@@ -8,6 +8,7 @@ page-layout: full
 course-logo: /assets/img/logo-mdp.png
 format:
   html:
+    number-sections: false
     template-partials:
       - assets/html/title-block.html
 ---
@@ -17,27 +18,27 @@ format:
 ::: hero-text
 ::: {.grid .course-details}
 ::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
-## Instructors
+## Instructores
 
--   {{< fa user >}}   [{{< var alaa.name >}}](%7B%7B%3C%20var%20fabio.url%20%3E%7D%7D)
+-   {{< fa user >}}   [{{< var mauricio.name >}}]({{< var mauricio.url >}})
+-   {{< fa user >}}   [{{< var ferney.name >}}](%7B%7B%3C%20var%20fabio.url%20%3E%7D%7D)
 -   {{< fa user >}}   [{{< var fabio.name >}}](%7B%7B%3C%20var%20fabio.url%20%3E%7D%7D)
--   {{< fa university >}}   {{< var fabio.office >}}
--   {{< fa calendar-check >}}   [Schedule an appointment](%7B%7B%3C%20var%20fabio.appointment_url%20%3E%7D%7D)
+-   {{< fa university >}}   Université de Lorraine | Universidad de Santiago de Chile 
+
 :::
 
 ::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
-## Course details
+## Detalles del Programa
 
--   {{< fa calendar >}}   {{< var course.days >}}
--   {{< fa calendar-alt >}}   {{< var course.dates >}}
+-   {{< fa calendar-alt >}}   {{< var course.period >}}
 -   {{< fa clock >}}   {{< var course.time >}}
--   {{< fa location-dot >}}   {{< var course.location >}}
+-   {{< fa location-dot >}}   Online
 :::
 
 ::: {.g-col-12 .g-col-md-4 .contact-policy}
-## Contactez nous
+## Con el apoyo de:
 
-{{< var fabio.contact_policy >}}
+{{< var course.funding >}}
 :::
 :::
 :::

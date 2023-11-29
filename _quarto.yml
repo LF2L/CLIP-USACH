@@ -17,7 +17,7 @@ website:
     type: overlay  
   page-footer:
     left: |
-      Développé par 
+      Desarrollado por:
       [![](https://raw.githubusercontent.com/fabbiocrux/Figures/main/Logos/ENSGSI/2022/Lorraine%20INP%20ENSGSI%20RS%20(couleur%2C%20CMJN).png){fig-alt="ENSGSI" width=65px}](https://www.ensgsi.univ-lorraine.fr/)
     center:
       - text: "About"
