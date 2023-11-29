@@ -1,11 +1,10 @@
 ---
-title: "Collaborative Innovation Lab Incubation Program -CLIP-"
+title: "Collaborative Innovation Lab Incubation Program"
 subtitle: "Université de Lorraine  | USACH"
-details: |
-  "Think with your hands, build something or ty something, then talk about it, NOT the Reverse." *David Kelly, Founder IDEO & Standford Deisgn School* 
+##details: | 
 sidebar: false
 page-layout: full
-course-logo: /assets/img/logo-mdp.png
+course-logo: /assets/img/Logo.png
 format:
   html:
     number-sections: false

@@ -1,6 +1,6 @@
 ---
-title: "Introduction to CLIP - USACH"
-subtitle: "An overview of the program"
+title: "Programa de Incubación de Laboratorios de Innovación Colaborativo"
+subtitle: "Presentación del programa"
 #page-layout: full
 toc: true
 ---
