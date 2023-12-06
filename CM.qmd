@@ -17,16 +17,18 @@ El Collaborative innovation Lab Incubation Program (CLIP) es un espacio único d
 
 CLIP-USACH es una colaboración entre la Vicerrectoría de Investigación, Innovación y Creación de la Universidad de Santiago de Chile (USACH), a través de su Dirección de Innovación y Emprendimiento (DINEM), con el Laboratorio de Emprendimiento e Innovación del Departamento de Ingeniería Industrial (LEIND USACH) y la École National Supérieure en Génie des Systèmes Industriels et de l'Innovation (ENSGSI) de la Université de Lorraine. Este programa tiene como objetivo identificar, fortalecer y conectar espacios de innovación de la USACH, con la intención de crear una red sólida que promueva la cultura innovadora en la institución.
 
+![](images/USACH-VRI-DINEM-01.png){fig-align="center"}
+
 Este programa es una respuesta al dinamismo de la innovación en la USACH, que en los últimos años ha venido transformando los entornos de investigación y de enseñanza tradicionales en espacios caracterizados por estructuras abiertas y flexibles. Estos espacios facilitan la convergencia de diferentes profesiones y disciplinas, promoviendo la eficacia en la colaboración.
 
-::: {.callout-important appearance="simple"}
+::: {.callout-tip appearance="simple"}
 ## CLIP-USACH tiene objetivos claros:
 
-1.  Identificar espacios de innovación en diversas etapas de desarrollo
+1.  Identificar espacios de innovación en diversas etapas de desarrollo.
 
-2.  Potenciar su crecimiento mediante orientación estratégica y apoyo operacional y financiero
+2.  Potenciar su crecimiento mediante orientación estratégica y apoyo. operacional y financiero.
 
-3.  Crear una red virtuosa de colaboración interdisciplinaria entre estos espacios para fortalecer la cultura innovadora de la institución
+3.  Crear una red virtuosa de colaboración interdisciplinaria entre estos espacios para fortalecer la cultura innovadora de la institución.
 :::
 
 ## Metodología
@@ -77,7 +79,7 @@ Con un enfoque en las personas, intenciones estratégicas y competencias clave, 
 ::: callout-warning
 ## Importante
 
-**Se espera que cada miembro de los Lab Teams dedique un mínimo de 2 horas por semana a participar en el programa CLIP**
+**Se espera que los Lab Teams con todos sus integrantes dediquen un mínimo de 2 horas por semana a participar en el programa CLIP**
 :::
 
 ## Finalización Exitosa del Programa
