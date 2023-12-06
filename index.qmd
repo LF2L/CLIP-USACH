@@ -35,7 +35,7 @@ format:
 :::
 
 ::: {.g-col-12 .g-col-md-4 .contact-policy}
-## Con el apoyo de:
+## Un programa financiado por:
 
 {{< var course.funding >}}
 :::
