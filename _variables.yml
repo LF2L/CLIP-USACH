@@ -1,16 +1,19 @@
-author: Fabio A. Cruz Sanchez
+author: ENSGSI
 
 mauricio:
   name: Pr. Mauricio Camargo
-  name_no_title: Fabio Cruz Sanchez
+  name_no_title: Mauricio Camargo
   email: mauricio.camargo@univ-lorraine.fr
   url: https://erpi.univ-lorraine.fr/people/Mauricio-Camargo/
 
 ferney:
-  name: PhD. Ferney Osorio
-
+  name: Dr. Ferney Osorio
+  name_no_title: Ferney Osorio
+  email: ferney.osorio@univ-lorraine.fr
+  url: https://www.linkedin.com/in/ferneyob
+  
 fabio:
-  name: Dr. Fabio A Cruz
+  name: Dr. Fabio A. Cruz
   name_no_title: Fabio Cruz Sanchez
   email: fabio.cruz@univ-lorraine.fr
   url: https://erpi.univ-lorraine.fr/people/Fabio-Cruz/
@@ -18,23 +21,28 @@ fabio:
   github: fabbiocrux
   office: "ENSGSI"
   contact_policy: >-
-    L'e-mail et Microsoft teams sont les meilleurs moyens de nous contacter. On essai de répondre à tous les courriels et messages liés au cours dans les XX heures (*vraiment*), mais rappelez-vous aussi que la vie peut être occupée et chaotique pour tout le monde (y compris nous !), alors si je ne réponds pas tout de suite, ne vous inquiétez pas !
+    El e-mail y Microsoft teams son las mejores formas de ponerse en contacto con nosotros. Intentamos responder a todos los correos electrónicos y mensajes. liés au cours dans les XX heures (*vraiment*), mais rappelez-vous aussi que la vie peut être occupée et chaotique pour tout le monde (y compris nous !), alors si je ne réponds pas tout de suite, ne vous inquiétez pas !
   appointment_url: https://calendly.com/
 
+sebastian:
+  name: MSc. Sebastián Cantillo
+  name_no_title: Sebastián Cantillo
+  email: sebastian.cantillo-arce3@etu.univ-lorraine.fr
+  url: https://www.linkedin.com/in/sebastiancantillo17/
 
 course:
   period: "Noviembre 2023 - Mayo 2024"
-  days: "Thursdays"
-  time: "7:15–9:45 PM"
-  location: "ENSGSI"
-  copyright_year: "2023"
-  funding: "Este proyecto es financiado por"
+  days: "Wednesdays"
+  time: "11:30AM – 1:30PM (Santiago, Chile)"
+  location: "MICROSOFT TEAMS"
+  copyright_year: "2023-2024"
+  funding: "Este proyecto es financiado por la Dirección de Innovación y Emprendimiento de la Vicerrectoria de Investigación, Innovación y Creación de la Universidad de Santiago de Chile"
   #slack: "https://gsuevalsp2023.slack.com"
 
 university:
   name: Université de Lorraine
-  url: "https://www.gsu.edu"
+  url: "https://www.univ-lorraine.fr/"
 
 school:
   name: ENSGSI
-  url: "https://aysps.gsu.edu/"
+  url: "https://www.ensgsi.univ-lorraine.fr/"

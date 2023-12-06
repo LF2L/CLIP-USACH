@@ -1,184 +1,181 @@
 ---
-title: "Programa de Incubación de Laboratorios de Innovación Colaborativo"
-subtitle: "Presentación del programa"
+title: "Presentación del Programa"
+#subtitle: "Presentación del programa"
 #page-layout: full
 toc: true
 ---
 
-# Program Description
+El Collaborative innovation Lab Incubation Program (CLIP) es un espacio único diseñado para planificar y desarrollar espacios de innovación colaborativa en territorios, empresas, universidades y ONGs. El CLIP actúa como una plataforma virtual en la que los equipos gestores de estos espacios (Lab Teams) intercambian conocimientos y experiencias, buscando potenciar sus competencias clave como equipo y como laboratorio. Este programa orienta e inspira la creación de redes globales de laboratorios de innovación. Su objetivo es acompañar a los miembros de los Lab Teams para que avancen en el (re)diseño e implementación de sus espacios y ecosistemas de innovación colaborativa. Todo esto implica una participación activa de todos los integrantes de los equipos durante todo el programa.
 
-## Methodology 
+::: {.callout-tip appearance="minimal"}
+**Bienvenidas y bienvenidos a esta nueva versión del CLIP!**
 
-The incubation program is structured in six sprints in which participants are introduced to a set of conceptual material together with specific strategic workshops.
-The CLIP has a duration of six months starting from **XXX/2023 - XXX / 2024**. 
-
-Each sprint has specific goals that the CLT should fulfill in order to successfully complete the program. 
-The results of each sprint are to be uploaded to the website assigned to each team.
-The website will serve as a prototype for the strategic design of the Innovation Labs that the CLT can ultimately use to validate their proposals with other stakeholders, and as a dissemination tool for their local Climate Lab initiative.
-
-
-::: {.callout-note}
-## The scientific baseline of this program.
-
-The incubation program is conceived as a collective pool of knowledge and therefore brings together various methods, practices and tools shared by consortium members and invited experts. 
-All the different experiences are articulated under the innovation lab framework that has been developed by the ERPI of Université de Lorraine as part of its research strand in fostering collaborative innovation processes [@Osorio2019].
+**Esperamos se involucren al máximo y disfruten del proceso de (re)diseñar su espacio de innovación. 🤓**
 :::
 
+# Descripción del Programa CLIP-USACH
 
-Building on the context analysis and capability mapping, this incubation program proposes to the CLT to proactively and collectively strategize in terms of the main innovation lab components as shown in the figure below.
+CLIP-USACH es una colaboración entre la Vicerrectoría de Investigación, Innovación y Creación de la Universidad de Santiago de Chile (USACH), a través de su Dirección de Innovación y Emprendimiento (DINEM), con el Laboratorio de Emprendimiento e Innovación del Departamento de Ingeniería Industrial (LEIND USACH) y la École National Supérieure en Génie des Systèmes Industriels et de l'Innovation (ENSGSI) de la Université de Lorraine. Este programa tiene como objetivo identificar, fortalecer y conectar espacios de innovación de la USACH, con la intención de crear una red sólida que promueva la cultura innovadora en la institución.
 
-![](images/02-Structure-CLIP.png)
+Este programa es una respuesta al dinamismo de la innovación en la USACH, que en los últimos años ha venido transformando los entornos de investigación y de enseñanza tradicionales en espacios caracterizados por estructuras abiertas y flexibles. Estos espacios facilitan la convergencia de diferentes profesiones y disciplinas, promoviendo la eficacia en la colaboración.
 
-## Key Action Moments 
+::: {.callout-important appearance="simple"}
+## CLIP-USACH tiene objetivos claros:
 
-There are five key action moments throughout the CLIP:
+1.  Identificar espacios de innovación en diversas etapas de desarrollo
 
--   **Sprint opening** (1h30 per sprint)
+2.  Potenciar su crecimiento mediante orientación estratégica y apoyo operacional y financiero
 
-    -   Synchronous webinar via Zoom in which sprint goals and main activities are presented to CLT
-
--   **Online material** (Between 1h and 1h30 of video content per sprint)
-
-    -   CLT can access the online material via the CLIP website. Content is composed by conceptual videos, case experiences and complimentary readings
-
-    -   Members of CLT should access this content prior conducting each workshop
-
--   **Team workshops** (Between 1h30 and 2h per workshop)
-
-    -   Each sprint proposes to the CLT a strategic workshop that should be conducted as a team
-
-    -   Workshops templates are provided via the Mural platform
-
--   **Tutorships** (1h30 per sprint)
-
-    -   Intermediary check-ins via Zoom are proposed to the CLT in the forms of Q&A sessions
-
-    -   This is the moment for CLT to exchange with their mentors and guest experts to share their experiences or ask questions regarding the ongoing sprint's goal.
-
--   **Upload and share sprint results**
-
-    -   By the end of each sprint, the CLT should upload their workshop results to their Climate Lab website prototype
-
-    -   At the beginning of the next sprint, the CLT will briefly present to the consortium their results and learnings
-
-
-::: {.callout-warning}
-**Participants from each CLT are expected to dedicate 2 hours minimum per week to the CLIP.**
+3.  Crear una red virtuosa de colaboración interdisciplinaria entre estos espacios para fortalecer la cultura innovadora de la institución
 :::
-## Successful completion of the program {.unnumbered}
 
-To successfully complete the incubation program, the CLT need to: 
+## Metodología
 
-1.  Conduct as a team each one of the workshops that will be assigned in each sprint. 
-2.  Upload the workshop results to a non-published website that will constitute the prototype for the strategic design of their ClimateLab.
-3.  Share progress at the beginning of each sprint.
-4.  Final presentation of the strategic design of the Climate Lab at the mid-project meeting.
+CLIP-USACH tiene una duración de seis meses, **desde el 27 de noviembre de 2023 hasta el 24 de mayo de 2024**. El programa está estructurado en **seis sprints**, cada uno presentando a los participantes contenido conceptual y workshops estratégicos. Estos sprints tienen objetivos específicos que los Lab Teams deben alcanzar para completar exitosamente el programa. El progreso y los resultados de cada sprint deben documentarse y subirse a la Wiki asignada al equipo. Esta Wiki funciona tanto como un prototipo para el diseño estratégico del espacio de innovación como una herramienta de comunicación para validar estas propuestas con los aliados y difundirlas dentro del ecosistema local.
 
-## Operation and online platforms {.unnumbered}
+::: callout-note
+## La base científica del programa
 
--   All the incubation program content will be available through the **CLIP Website**: [\<https://lf2l.fr/CLIP/\>](https://lf2l.fr/CLIP/){.uri} 
--   Webinars and video calls will be held through **Zoom**.
--   Workshop templates will be available via **MURAL**.
--   Website prototype templates will be provided via **Google Sites**.
+El programa de incubación combina varios métodos, prácticas y herramientas, derivados de años de investigación y colaboraciones con laboratorios de innovación en todo el mundo. Se basa en el "Innovation lab Framework" desarrollado en la Université de Lorraine, parte de una línea de investigación sobre el fomento de procesos de innovación colaborativa [@Osorio2019].
+:::
 
+Con un enfoque en las personas, intenciones estratégicas y competencias clave, el CLIP incita a los Lab Teams a diseñar de manera proactiva y colectiva los componentes clave de un espacio de innovación, tal y como se ilustra en la figura a continuación:
 
-# Program Schedule {.unnumbered}
+![](images/CLIP%20USACH%20-%20Incubation%20Program.png){fig-align="center"}
 
+## Momentos clave durante el CLIP
 
+-   **Apertura de sprint** (1h30 por sprint)
 
-+------------+--------------------------------------------+--------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------+
-| **Sprint** | Object                                     | **Goal(s)**                                                                                                  | **Main Focus**                                                                                                   |
-+============+:===========================================+:=============================================================================================================+:=================================================================================================================+
-| I          | **Fundamentals & Principles**              | \- Build the Climate Lab Manifesto                                                                           | \- Set the stage in terms of Climate Change, Social Innovation and Innovation Lab                                |
-|            |                                            |                                                                                                              |                                                                                                                  |
-|            | 3 weeks                                    |                                                                                                              | \                                                                                                                |
-|            |                                            |                                                                                                              |                                                                                                                  |
-|            | From 09/04/21 to 29/04/21                  |                                                                                                              | \- Teams focus on defining the CLT purpose                                                                       |
-+------------+--------------------------------------------+--------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------+
-| II         | **Strategic Intent & Process of Creation** | \- Define the Climate Lab's vision and objectives                                                            | \- The importance of building a collective strategic intent                                                      |
-|            |                                            |                                                                                                              |                                                                                                                  |
-|            | 4 weeks                                    | \                                                                                                            | \                                                                                                                |
-|            |                                            |                                                                                                              |                                                                                                                  |
-|            | From 30/04/21 to 27/05/21                  | \- Design of the social innovation process                                                                   | | - Innovation labs facilitate innovation processes: what is the social innovation process for your Climate Lab? |
-+------------+--------------------------------------------+--------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------+
-| III        | **Physical Embodiment**                    | \- Translate the Climate Lab's vision into a technological resource roadmap                                  | \- Management of technological resources                                                                         |
-|            |                                            |                                                                                                              |                                                                                                                  |
-|            | 4 weeks                                    |                                                                                                              | \                                                                                                                |
-|            |                                            |                                                                                                              |                                                                                                                  |
-|            | From 28/05/21 to 01/07/21                  |                                                                                                              | \- Spaces to support social innovation                                                                           |
-+------------+--------------------------------------------+--------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------+
-| IV         | **Process of Use & Outcomes**              | ~~- Design the business model & local strategy of the Climate Lab~~                                          | \- The role of innovation labs in universities and climate change                                                |
-|            |                                            |                                                                                                              |                                                                                                                  |
-|            | ~~6~~ 8 weeks (including summer break)     | \- To round out your Climate Lab's strategic design and present your intent to all members of the Consortium |                                                                                                                  |
-|            |                                            |                                                                                                              |                                                                                                                  |
-|            | From 02/07/21 to 02/09/21                  |                                                                                                              |                                                                                                                  |
-+------------+--------------------------------------------+--------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------+
-| V          | **Assessment & Adaptation**                | \- Assess the Climate Lab performance                                                                        | \- Practices for a more creative, resilient and enduring operation                                               |
-|            |                                            |                                                                                                              |                                                                                                                  |
-|            | ~~4~~ 3 weeks                              |                                                                                                              |                                                                                                                  |
-|            |                                            |                                                                                                              |                                                                                                                  |
-|            | From 03/09/21 to 23/09/21                  |                                                                                                              |                                                                                                                  |
-+------------+--------------------------------------------+--------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------+
-| VI         | **Pilot Project**                          | \- Set-up of the local Climate Lab pilot project                                                             | \- Moving from strategic to operational level: applying the living lab approach                                  |
-|            |                                            |                                                                                                              |                                                                                                                  |
-|            | 3 weeks                                    |                                                                                                              |                                                                                                                  |
-|            |                                            |                                                                                                              |                                                                                                                  |
-|            | From 24/09/21 to 15/10/21                  |                                                                                                              |                                                                                                                  |
-+------------+--------------------------------------------+--------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------+
+    -   Se realiza de manera sincrónica a través de Microsoft Teams, esta sesión implica compartir y discutir los resultados de los sprints anteriores.
+    -   Además, se presentan a los participantes los objetivos y actividades principales del nuevo sprint.
+
+-   **Material en línea** (Aproximadamente 30 minutos de contenido en video por sprint)
+
+    -   Los Lab Teams pueden acceder a este material en el sitio web de CLIP. Incluye videos conceptuales y lecturas complementarias
+
+    -   Los Lab Teams deben revisar este contenido antes de realizar cada workshop
+
+-   **Workshops en equipo** (Entre 1h30 y 2h por taller)
+
+    -   Cada sprint incluye un workshop estratégico que debe ser realizado por los Lab Teams
+
+    -   Las plantillas para los workshops se proporcionan a través de la plataforma MIRO
+
+-   **Mentorías** (1h30 por sprint)
+
+    -   Estos encuentros intermedios a través de Microsoft Teams funcionan como sesiones de preguntas y respuestas
+
+    -   Ofrecen a los Lab Teams la oportunidad de interactuar con mentores y expertos invitados, compartir experiencias y buscar asesoramiento sobre los objetivos del sprint actual
+
+-   **Subir y compartir los resultados del sprint**
+
+    -   Al final de cada sprint, los equipos deben subir los resultados de sus workshops a su Wiki del Lab
+
+    -   En la apertura del sprint subsiguiente, los equipos presentarán brevemente sus resultados, aprendizajes y decisiones a todos los participantes
+
+::: callout-warning
+## Importante
+
+**Se espera que cada miembro de los Lab Teams dedique un mínimo de 2 horas por semana a participar en el programa CLIP**
+:::
+
+## Finalización Exitosa del Programa
+
+Para completar exitosamente el programa de incubación, los Lab Teams deben:
+
+1.  Participar activamente y completar todos los workshops asignados en cada sprint como equipo.
+
+2.  Subir los resultados de estos workshops a una Wiki no publicada, que sirve como prototipo para el diseño estratégico del espacio de innovación.
+
+3.  Compartir regularmente el progreso durante las sesiones de tutoría y al inicio de cada sprint.
+
+4.  Presentar el diseño estratégico del espacio de innovación en la reunión final en Nancy en mayo de 2024.
+
+## Herramientas y plataformas en línea
+
+-   Todo el contenido del programa de incubación estará disponible a través del **sitio web de CLIP**: <https://lf2l.fr/CLIP-USACH/>
+
+-   Los webinars y las videollamadas se realizarán a través de **Microsoft Teams**.
+
+-   Las plantillas para los workshops estarán disponibles a través de **MIRO**.
+
+-   Las plantillas para la Wiki se proporcionarán a través de **NOTION**.
+
+# Calendario del Programa
+
++------------+-------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------+
+| **Sprint** | **Temática**                                    | **Objetivo**                                                                                                            | **Temas principales**                                                                                                                    |
++------------+-------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------+
+| I          | **Fundamentos y Propósito**                     | \- Construir el Manifiesto del Espacio de Innovación                                                                    | \- Establecer las bases en términos de innovación y espacios de innovación                                                               |
+|            |                                                 |                                                                                                                         |                                                                                                                                          |
+|            | 3 semanas                                       |                                                                                                                         | \                                                                                                                                        |
+|            |                                                 |                                                                                                                         |                                                                                                                                          |
+|            | Desde el 27/11/23 al 19/12/23                   |                                                                                                                         | \- Definir los Lab Teams y su propósito                                                                                                  |
++------------+-------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------+
+| II         | **Intención Estratégica y Proceso de Creación** | \- Definir la visión del espacio de innovación y sus objetivos                                                          | \- La importancia de construir una intención estratégica colectiva                                                                       |
+|            |                                                 |                                                                                                                         |                                                                                                                                          |
+|            | 4 semanas                                       | \                                                                                                                       | \                                                                                                                                        |
+|            |                                                 |                                                                                                                         |                                                                                                                                          |
+|            | Desde el 20/12/23 al 16/01/24                   | \- Diseño del proceso de innovación                                                                                     | \- Los espacios de innovación facilitan procesos de innovación: ¿cuál es el proceso de innovación que se lleva a cabo en su laboratorio? |
++------------+-------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------+
+| III        | **Materialización**                             | \- Transformar la visión del espacio de innovación en una hoja de ruta de evolución articulando recursos y competencias | \- Gestión de recursos tecnológicos y de la innovación                                                                                   |
+|            |                                                 |                                                                                                                         |                                                                                                                                          |
+|            | 3 semanas                                       |                                                                                                                         |                                                                                                                                          |
+|            |                                                 |                                                                                                                         |                                                                                                                                          |
+|            | Desde el 06/03/24 al 26/03/25                   |                                                                                                                         |                                                                                                                                          |
++------------+-------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------+
+| IV         | **Proceso de uso y Resultados**                 | \- Diseño del modelo de negocio y prácticas de integración del espacio de innovación a la misión universitaria          | \- El rol de los espacios de innovación en las misiones de la Universidad                                                                |
+|            |                                                 |                                                                                                                         |                                                                                                                                          |
+|            | 4 semanas                                       |                                                                                                                         | \                                                                                                                                        |
+|            |                                                 |                                                                                                                         |                                                                                                                                          |
+|            | Desde el 27/03/24 al 23/04/24                   |                                                                                                                         |                                                                                                                                          |
++------------+-------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------+
+| V          | **Evaluación y Adaptación**                     | \- Evaluación del desempeño del espacio de innovación                                                                   | \- Espacios para facilitar procesos de innovación sostenible                                                                             |
+|            |                                                 |                                                                                                                         |                                                                                                                                          |
+|            | 3 weeks                                         | \- Prácticas para un trabajo más creativo, resiliente y sostenible                                                      |                                                                                                                                          |
+|            |                                                 |                                                                                                                         |                                                                                                                                          |
+|            | Desde el 24/04/24 al 20/05/24                   |                                                                                                                         |                                                                                                                                          |
++------------+-------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------+
+| VI         | **Piloto SINAPIS**                              | \- Diseño y prototipado de soluciones sostenible: retos plataforma SINAPIS                                              | \- El paso de lo estratégico a lo operacional: aplicando el enfoque Fab Living Lab                                                       |
+|            |                                                 |                                                                                                                         |                                                                                                                                          |
+|            | 1 semana (en Nancy)                             |                                                                                                                         |                                                                                                                                          |
+|            |                                                 |                                                                                                                         |                                                                                                                                          |
+|            | Desde el 21/05/24 al 24/05/24                   |                                                                                                                         |                                                                                                                                          |
++------------+-------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------+
+
+## Programación de las mentorías
+
+Todas las mentorías se harán a través de Microsoft Teams de 11:30am a 1:30pm (hora Santiago, Chile):
+
+-   Sesión 1 - 10/01/2024
+
+-   Sesión 2 - 20/03/2024
+
+-   Sesión 3 - 10/04/2024
+
+-   Sesión 4 - 07/05/2024
 
 # CLIP Team {.unnumbered}
 
-
-::: {.callout-tip }
+::: callout-tip
 ## Mauricio Camargo
-
 :::
 
-::: {.callout-tip }
+::: callout-tip
 ## Laure MOREL
-
 :::
 
-::: {.callout-tip }
+::: callout-tip
 ## Ferney OSORIO
-
 :::
 
-::: {.callout-tip }
+::: callout-tip
 ## Fabio CRUZ
-
 :::
 
+# Prototipando tu Espacio de Innovación
 
-
-## Tutorship Schedule {.unnumbered}
-
-All tutorship sessions will be held in parallel rooms via Zoom at 16h00 CET - 9:00am COL/MEX - 11:00am BRA
-
--   Session 1 - 23/04/2021
-
--   Session 2 - 14/05/2021
-
--   Session 3 - 11/06/2021
-
--   Session 4 - ~~09/07/21~~ 27/08/2021 - Let's test your pitch!
-
--   Session 5 - 10/09/2021 - Present your pitch to the Climate Lab External Committee!
-
--   Session 6 - 08/10/2021
-
-# Prototyping your Climate Lab {.unnumbered}
-
-## Colombia {.unnumbered}
-
-In this link will be able to prototype your website :
-
--   [Universidad de Caldas](https://sites.google.com/d/1pL3lPApfBU9OLEuKKYBZXeXeYRb-jaE-/p/1tui6PT_kfWJ98nbQqok9pOKUDlXlUtG5/edit)
-
--   [Universidad del Quindio](https://sites.google.com/d/1CI-a9gJAyL9dL61FLLTkz73RuzQpgou8/p/1Bu6lxthfwOrrqB1COUU6-f5LhRk0Nsky/edit)
-
--   [Universidad de Manizales](https://sites.google.com/d/1kdjgO68GGG1lxXVCX68pGhlEp1vYXeA4/p/1nyWSv7ycqrfRRE6af-KGqCkgAMEVzDeJ/edit)
-
--   [Universidad Tecnológica de Pereira](https://sites.google.com/d/1QslfTrR0vOcFVcfr8wZORmnmSbUYcV7E/p/1CflzF0rmBMw7aXllbzIYBNuCU_JUm5fx/edit)
-
--   [Corporacion Universitaria Minuto de Dios](https://sites.google.com/d/1H32GFcwa8C8TDTQm0AQ6sl8qUHLoYEj9/p/1PdDPvEV-SZTT-4_sUkm31ivHLdgbM86i/edit)
+::: {.callout-note appearance="minimal"}
+A medida que avancemos en el CLIP, encontrarás aquí que los resultados de cada workshop irán conformando el prototipo del diseño estratégico de tu espacio de innovación.
+:::

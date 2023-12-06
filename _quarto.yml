@@ -9,7 +9,7 @@ project:
 #   - "Slides/**"
      
 website:
-  title: "CLIP - USACH" 
+  title: "CLIP-USACH" 
   site-url: ""
   repo-url: "" 
 
@@ -20,13 +20,13 @@ website:
       Desarrollado por:
       [![](https://raw.githubusercontent.com/fabbiocrux/Figures/main/Logos/ENSGSI/2022/Lorraine%20INP%20ENSGSI%20RS%20(couleur%2C%20CMJN).png){fig-alt="ENSGSI" width=65px}](https://www.ensgsi.univ-lorraine.fr/)
     center:
-      - text: "About"
+      - text: "Université de Lorraine"
 #        href: about.qmd
-      - text: "FAQ"
+#      - text: "FAQ"
 #        href: docs/faq/index.qmd
-      - text: "License"
+#      - text: "License"
 #        href: license.qmd
-      - text: "Trademark"
+#      - text: "Trademark"
 #        href: trademark.qmd
     # right:
     #   - icon: twitter
@@ -42,17 +42,17 @@ website:
 
   navbar:
     background: light
-    logo: assets/img/ENSGSI.png
+    logo: assets/img/ENSGSI-Carre.png
     logo-alt: "ENSGSI Logo"
 #    title: true
     collapse-below: lg
     left:
-      - text: "Home"
+      - text: "Inicio"
         file: index.qmd    
       - text: "Sprints"
         file: CM.qmd
-      - text: "Workshops"
-        file: TD.qmd    
+#      - text: "Workshops"
+#        file: TD.qmd    
       # - text: "Travaux Pratiques"
       #   file: TP.qmd            
       # - text: "Aide"
@@ -80,11 +80,11 @@ website:
       contents:
         - CM.qmd      
         - CM/CM1.qmd
-        - CM/CM2.qmd
-        - CM/CM3.qmd
-        - CM/CM4.qmd
-        - CM/CM5.qmd        
-        - CM/CM6.qmd                
+#        - CM/CM2.qmd
+#        - CM/CM3.qmd
+#        - CM/CM4.qmd
+#        - CM/CM5.qmd        
+#        - CM/CM6.qmd                
     # - title: "Travaux Dirigés"
     #   style: "floating"
     #   contents:

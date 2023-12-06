@@ -1,31 +1,60 @@
 ---
-title: "Principios y fundamentos"
-subtitle: "Objetivo: "
+title: "Sprint 1 - Fundamentos y Propósito"
+##subtitle: "Objetivo: "
 ---
 
+# Apertura del Sprint
 
-# Bienvenidos
+Bienvenidos al primer sprint del CLIP-USACH. Aquí vamos a centrarnos en los Fundamentos y el Propósito para los Espacios de Innovación.
 
 ::: callout-note
-## Goal of this sprint
+## Objetivo del Sprint 1
 
-The main goal in this sprint is to build your **Climate Lab Manifesto**
+El objetivo principal de este sprint es construir el **MANIFIESTO de tu Espacio de Innovación**
 
-> *Sprint dates: **From April 9 to April 29***
+> *Fechas del sprint: **Desde el 27/11/23 al 19/12/23***
 :::
 
+El pasado 27 y 28 de noviembre se realizó de manera presencial en Santiago el kick-off del CLIP-USACH. Esto marcó la apertura oficial del programa y el comienzo del Sprint 1. Los workshops llevados a cabo durante estas dos jornadas se centraron en establecer las bases para el resto del programa.
+
+Además, les compartimos una serie de contenidos y actividades que deben realizarse para completar este primer sprint:
+
+1.  Primero, encontrarán **dos videos conceptuales** que tienen como objetivo iniciar la discusión sobre la importancia de considerar la innovación como un sistema y qué es un espacio de innovación.
+
+2.  A continuación, encontrarán el enlace al **workshop para este sprint**. Este workshop debe completarse de manera grupal antes del final del sprint (19 de diciembre).
+
+3.  Y finalmente, se ofrecen **lecturas complementarias** para aquellos que deseen profundizar en los temas tratados en este sprint.
 
 ------------------------------------------------------------------------
 
 # Videos Conceptuales
 
-## Innovación como un Sistema - Mauricio Camargo
-
 ## Espacios de Innovación- Laure Morel
 
-{{< video https://www.youtube.com/embed/18fC47uXhxo >}}
+{{< video https://youtu.be/xPJk7ZGUpLI >}}
 
-Professor Laure Morel from Université de Lorraine introduces the notion of innovation spaces and how these collaborative structures can play a major role in fostering social innovation for climate change. This presentation is based on her book chapter "Innovation spaces: new places for collective intelligence?" [@Morel2018].
+La profesora Laure Morel de la Université de Lorraine presenta la noción de espacios de innovación y cómo estas estructuras colaborativas pueden desempeñar un papel importante en el fomento de la innovación colaborativa. Esta presentación se basa en el capítulo "Innovation spaces: new places for collective intelligence?" [@Morel2018a].
 
-## Diséno para la durabilidada - Fabio Cruz
+## Innovación como un Sistema - Mauricio Camargo
 
+{{< video https://youtu.be/W2dxXkrudfg?si=lyj8xpyueRQhf-5n >}}
+
+La innovación como proceso de resolución de problemas ha llevado a enormes mejoras en los estándares de vida y el crecimiento económico de la sociedad. La situación es crítica hoy en día, pero la innovación también podría ser parte de la solución. El Profesor Mauricio Camargo explica por qué para lograr cambios estructurales en nuestra sociedad necesitamos hacer las cosas de manera diferente: La descarbonización y la Innovación Sostenible requieren verla como un sistema [@Morel2021].
+
+# Team Workshops
+
+Cada espacio de innovación puede encontrar aquí el enlace al taller del Sprint 1:
+
+1.  **Espacio Innovación Amengual** - [Workshop 1](https://miro.com/app/board/uXjVNLWST8Q=/?playRecording=ab56a03a-f1ca-41d6-9421-7e8ef2fc6a6a)
+
+2.  **Centro Innovación FING** - [Workshop 1](https://miro.com/app/board/uXjVNKjAY4s=/?playRecording=ab56a03a-f1ca-41d6-9421-7e8ef2fc6a6a)
+
+3.  **CIESCOOP** - [Workshop 1](https://miro.com/app/board/uXjVNKimHsw=/?playRecording=ab56a03a-f1ca-41d6-9421-7e8ef2fc6a6a)
+
+4.  **LEIND USACH** - [Workshop 1](https://miro.com/app/board/uXjVNKimHxc=/?playRecording=ab56a03a-f1ca-41d6-9421-7e8ef2fc6a6a)
+
+5.  **LEMAA** - [Workshop 1](https://miro.com/app/board/uXjVNKimHW4=/?playRecording=ab56a03a-f1ca-41d6-9421-7e8ef2fc6a6a)
+
+6.  **Physalis** - [Workshop 1](https://miro.com/app/board/uXjVNKiWM9k=/?playRecording=ab56a03a-f1ca-41d6-9421-7e8ef2fc6a6a)
+
+7.  **PSINOP** - [Workshop 1](https://miro.com/app/board/uXjVNKiWMP0=/?playRecording=ab56a03a-f1ca-41d6-9421-7e8ef2fc6a6a)

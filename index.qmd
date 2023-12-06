@@ -1,10 +1,10 @@
 ---
-title: "Collaborative Innovation Lab Incubation Program"
-subtitle: "Université de Lorraine  | USACH"
+title: "Collaborative innovation Lab Incubation Program 2023-2024"
+subtitle: "Programa de Desarrollo de Capacidades en Espacios de Innovación de la Universidad de Santiago de Chile"
 ##details: | 
 sidebar: false
 page-layout: full
-course-logo: /assets/img/Logo.png
+course-logo: /assets/img/CLIP-USACH.png
 format:
   html:
     number-sections: false
@@ -17,13 +17,13 @@ format:
 ::: hero-text
 ::: {.grid .course-details}
 ::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
-## Instructores
+## Mentores
 
--   {{< fa user >}}   [{{< var mauricio.name >}}]({{< var mauricio.url >}})
--   {{< fa user >}}   [{{< var ferney.name >}}](%7B%7B%3C%20var%20fabio.url%20%3E%7D%7D)
+-   {{< fa user >}}   [{{< var mauricio.name >}}](%7B%7B%3C%20var%20mauricio.url%20%3E%7D%7D)
+-   {{< fa user >}}   [{{< var ferney.name >}}](%7B%7B%3C%20var%20ferney.url%20%3E%7D%7D)
 -   {{< fa user >}}   [{{< var fabio.name >}}](%7B%7B%3C%20var%20fabio.url%20%3E%7D%7D)
--   {{< fa university >}}   Université de Lorraine | Universidad de Santiago de Chile 
-
+-   {{< fa user >}}   [{{< var sebastian.name >}}](%7B%7B%3C%20var%20sebastian.url%20%3E%7D%7D)
+-   {{< fa university >}}   Université de Lorraine\
 :::
 
 ::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
