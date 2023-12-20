@@ -80,7 +80,7 @@ website:
       contents:
         - CM.qmd      
         - CM/CM1.qmd
-#        - CM/CM2.qmd
+        - CM/CM2.qmd
 #        - CM/CM3.qmd
 #        - CM/CM4.qmd
 #        - CM/CM5.qmd        

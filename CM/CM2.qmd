@@ -1,11 +1,128 @@
 ---
-title: "Intención Estratégica y Proceso de Creación"
-subtitle: ""
+title: "Sprint 2 - Intención Estratégica y Proceso de Creación"
+##subtitle: ""
 ---
 
+# Apertura del Sprint
 
-::: {.callout-note}
-# 🕦 Disponible en Diciembre 2023
+Bienvenidos al segundo sprint del CLIP-USACH. Ahora vamos a focalizarnos en la Intención Estratégica y el Proceso de Creación en los Espacios de Innovación.
+
+::: callout-note
+## Objetivo del Sprint 2
+
+Este sprint tiene dos objetivos principalmente: **MANIFIESTO de tu Espacio de Innovación**
+
+Definir la **Visión de tu espacio de innovación**
+
+Diseñar el **Proceso de Innovación**
+
+> *Fechas del sprint: **Desde el 20/12/23 al 16/01/24***
 :::
 
-<iframe src="https://giphy.com/embed/0U7bWQK9s75PjRKcHz" width="480" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p></p>
+Nuestro primer encuentro sincrónico se realizará el 20 de diciembre, marcando el inicio oficial del Sprint 2. Es esencial la presencia de todos los CLIP Teams.
+
+Asimismo, les compartimos los contenidos y los workshops que deben llevarse a cabo para completar este segundo sprint:
+
+1.  En primer lugar, tendrán a su disposición **dos videos conceptuales**. Estos están diseñados para iniciar un debate sobre la importancia de definir una intención estratégica para su Espacio de Innovación y el papel crucial de desarrollar un proceso de innovación propio, que sirva como marco metodológico orientador de su espacio.
+
+2.  Seguidamente, encontrarán el enlace a los **dos workshops de este sprint**. Es importante completar estos workshops de forma grupal antes del cierre del sprint (16 de enero).
+
+3.  En esta ocasión, también compartimos **dos entrevistas con colegas que participaron en el proyecto Climate Labs 2020-2023**, quienes nos relatan sus experiencias con sus propios espacios de innovación.
+
+4.  Y por último, ponemos a disposición **lecturas complementarias** para quienes estén interesados en profundizar en los temas abordados en este sprint.
+
+------------------------------------------------------------------------
+
+# Algunos antecedentes sobre la Intención Estratégica y Proceso de Creación en los Espacios de Innovación
+
+Según Moultrie et al.[-@Moultrie2007], diseñar un espacio de innovación “facilita el desarrollo de habilidades únicas, permite adaptar las capacidades existentes a demandas cambiantes y promueve sinergias entre competencias y saberes”. Sin embargo, rara vez las organizaciones definen metas estratégicas explícitas al crear sus espacios o laboratorios de innovación. A menudo, estas iniciativas surjen por el impulso de individuos o pequeños equipos con gran capacidad de convencimiento y una pasión genuina por la innovación. Sin emargo, tanto académicos como expertos en el tema concuerdan en que contar con una intención estratégica clara y compartida puede evitar que los espacios de innovación se reduzcan a lugares sin alma o se conviertan en simples "teatros de innovación" sin un propósito real.
+
+Algunos aspectos clave a considerar al definir la intención estratégica de un espacio de innovación incluyen [@Osorio2021]:
+
++-------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Criterios                           | Descripción                                                                                                                                                               |
++=====================================+===========================================================================================================================================================================+
+| Objetivos simbólicos y estratégicos | Impulsar la estrategia de innovación de la organización o aliados.                                                                                                        |
++-------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Enfoque ecosistémico                | Crear valor para todas las partes implicadas, crear un compromiso y una identificación a largo plazo con el espacio de innovación.                                        |
++-------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Contexto real                       | Representar o recrear entornos reales (a través del espacio, los equipos o las metodologías).                                                                             |
++-------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Participación de los usuarios       | Implicar a los usuarios en las distintas fases del proceso de innovación, en las que pueden testear, evaluar, contribuir y co-crear.                                      |
++-------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Cultura y comunidad                 | Construir una identidad y cultivar una comunidad de usuarios comprometidos y motivados con acceso al espacio de innovación.                                               |
++-------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Trabajo en equipo                   | Potenciar el trabajo en equipo para innovar, fomentar una mejor comunicación (física o virtual), favorecer la interacción social formal e informal y motivar al personal. |
++-------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Ciclo de vida                       | Estimar la duración de la iniciativa en su conjunto (a corto, medio o largo plazo).                                                                                       |
++-------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+: Intención estratégica - Criterios de orientación estratégica para los espacios de innovación
+
+Además de la reflexión estratégica, es crucial considerar quiénes sosn las partes interesadas y los usuarios del espacio y entender sus necesidades. Esto incluye determinar hasta qué punto se necesita una facilitación especializada y, finalmente, cómo el espacio de innovación se integrará al proceso global de innovación de la organización madre, ya sea existente o en construcción [@Magadley2009]. Así, al desarrollar el “proceso de creación”, es importante reconocer que cualquier espacio de innovación, en la práctica, experimentará una evolución a partir de su intención estratégica inicial y será una consecuencia directa del trabajo y las actividades reales que se desarrollen en allí.
+
+Aquí compartimos contigo algunos de los aspectos más comunes a tener en cuenta para definir el proceso de creación de un espacio de innovación de innovación [@Osorio2021]:
+
++-------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Criterios                           | Descripción                                                                                                                                                                                                                             |
++=====================================+=========================================================================================================================================================================================================================================+
+| Procesos de innovación deseados     | El rol pretendido del espacio de innovación en la facilitación de los procesos de innovación: Identificación de oportunidades, creación de conceptos, validación de conceptos, desarrollo de soluciones e implementación de soluciones. |
++-------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Actividades creativas contempladas  | El rol pretendido del espacio de innovación en el fomento y apoyo a las actividades creativas: Búsqueda, síntesis, creación, prototipado o evaluación.                                                                                  |
++-------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Usuarios y facilitadores            | Los usuarios a los que se destina el espacio: desde usuarios ocasionales para hacer pruebas específicas hasta albergar equipos de proyectos directamente espacio en el espacio de innovación.                                           |
+|                                     |                                                                                                                                                                                                                                         |
+|                                     | El grado de facilitación dedicada que el espacio de innovación pretende ofrecer para las actividades realizadas en y por el espacio de innovación.                                                                                      |
++-------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Recursos disponibles y limitaciones | La disponibilidad de recursos físicos, financieros, humanos y técnológicos.                                                                                                                                                             |
++-------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Eventos previstos                   | El tipo de "eventos" que se prevé albergar en el espacio, desde reuniones puntuales, maratones, conferencias o el desarrollo de proyectos.                                                                                              |
++-------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+: Proceso de Creación - Criterios de orientación estratégica para los espacios de innovación
+
+# Videos Conceptuales
+
+## Intención Estratégica - Ferney Osorio
+
+{{< video https://youtu.be/OzwLq7NeLn0 >}}
+
+La lucha por construir y mantener una intención colectiva entre las partes interesadas es uno de los principales retos para los responsables de gestionar un laboratorio de innovación. En este vídeo, Ferney Osorio, de la Université de Lorraine, explica el concepto de intención estratégica y por qué debe ser la piedra angular del diseño y la puesta en marcha de un laboratorio de innovación. El contenido de este video está basado en [@Osorio2019] y [@Mantere2007]
+
+## Aplicando el enfoque Fab Living Lab - Giovanny Arbelaez
+
+{{< video https://youtu.be/dPIBAzJnWhM >}}
+
+Giovanny Arbelaez, de la Université de Lorraine, ofrece un ejemplo detallado de la aplicación del enfoque Fab Living Lab. En este caso, Giovanny aborda el proceso de rediseño de la experiencia museística mediante la integración de tecnologías interactivas con el apoyo del Lorraine Fab Living Lab. Para saber más sobre este proyecto, puede echar un vistazo al documento [@Ten2020].
+
+# Team Workshops
+
+Cada espacio de innovación puede encontrar aquí el enlace al taller del Sprint 1:
+
+1.  **Espacio Innovación Amengual** - [Team Workshop 2](https://miro.com/app/board/uXjVNA3Dp24=/?playRecording=4a495663-4bf4-4d18-b83d-cdc5bbb7fe02) - Team Workshop 3
+
+2.  **Centro Innovación FING** - [Team Workshop 2](https://miro.com/app/board/uXjVNA3Dp3M=/?playRecording=4a495663-4bf4-4d18-b83d-cdc5bbb7fe02) - Team Workshop 3
+
+3.  **CIESCOOP** - [Team Workshop 2](https://miro.com/app/board/uXjVNA3Dp3k=/?playRecording=4a495663-4bf4-4d18-b83d-cdc5bbb7fe02) - Team Workshop 3
+
+4.  **LEIND USACH** - [Team Workshop 2](https://miro.com/app/board/uXjVNA3Dpwk=/?playRecording=4a495663-4bf4-4d18-b83d-cdc5bbb7fe02) - Team Workshop 3
+
+5.  **LEMAA** - [Team Workshop 2](https://miro.com/app/board/uXjVNA3Dpxs=/?playRecording=4a495663-4bf4-4d18-b83d-cdc5bbb7fe02) - Team Workshop 3
+
+6.  **Physalis** - [Team Workshop 2](https://miro.com/app/board/uXjVNA3Dpyo=/?playRecording=4a495663-4bf4-4d18-b83d-cdc5bbb7fe02) - Team Workshop 3
+
+7.  **PSINOP** - [Team Workshop 2](https://miro.com/app/board/uXjVNA3Dpzk=/?playRecording=4a495663-4bf4-4d18-b83d-cdc5bbb7fe02) - Team Workshop 3
+
+# Compartiendo Experiencias
+
+## Universitat Politècnica de València - Carola Calabuig
+
+{{< video https://youtu.be/uMQr1uIiRD0 >}}
+
+La profesora Carola Calabuig comparte su experiencia y visión sobre la innovación social en el Instituto de Investigación INGENIO de la Universitat Politècnica de València. Destaca la importancia de la dimensión colectiva y de base de los procesos de innovación que se producen fuera de los espacios dominantes o tradicionales de generación de conocimiento.
+
+## Instituto Tecnológico de Monterrey Campus Guadalajara – Sebastián Gradilla y Diego Díaz
+
+{{< video https://youtu.be/OLYeF9icR-k >}}
+
+El profesor Sebastián Gradilla y el estudiante de maestría Diego Díaz, del Instituto Tecnológico de Monterrey Campus Guadalajara, explican el papel del Laboratorio de Sustentabilidad y Cambio Climático para enfrentar los retos de la gestión de residuos agroindustriales en la región de Jalisco, México.

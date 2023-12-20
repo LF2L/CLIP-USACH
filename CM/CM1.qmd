@@ -25,10 +25,9 @@ Además, les compartimos una serie de contenidos y actividades que deben realiza
 
 3.  Y finalmente, se ofrecen **lecturas complementarias** para aquellos que deseen profundizar en los temas tratados en este sprint.
 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSGm1Hs2sng3MeZX9tvvxlcUH2QeQ8RGW8gObj8Zu8UOIjaqGvktUVh4ny8EgZxOTJ6BB3NMNewjMja/embed?start=false&amp;loop=false&amp;delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true">
 
-
-
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSGm1Hs2sng3MeZX9tvvxlcUH2QeQ8RGW8gObj8Zu8UOIjaqGvktUVh4ny8EgZxOTJ6BB3NMNewjMja/embed?start=false&loop=false&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</iframe>
 
 ------------------------------------------------------------------------
 
