@@ -5,12 +5,14 @@ title: "Sprint 2 - Intención Estratégica y Proceso de Creación"
 
 # Apertura del Sprint
 
+![](images/CLIP - Incubation Program-Sprint 2.png){fig-align="center"}
+
 Bienvenidos al segundo sprint del CLIP-USACH. Ahora vamos a focalizarnos en la Intención Estratégica y el Proceso de Creación en los Espacios de Innovación.
 
 ::: callout-note
 ## Objetivo del Sprint 2
 
-Este sprint tiene dos objetivos principalmente: **MANIFIESTO de tu Espacio de Innovación**
+Este sprint tiene dos objetivos principalmente:
 
 Definir la **Visión de tu espacio de innovación**
 

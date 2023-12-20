@@ -5,6 +5,8 @@ title: "Sprint 1 - Fundamentos y Propósito"
 
 # Apertura del Sprint
 
+![](images/CLIP - Incubation Program-Sprint 1.png){fig-align="center"}
+
 Bienvenidos al primer sprint del CLIP-USACH. Aquí vamos a centrarnos en los Fundamentos y el Propósito para los Espacios de Innovación.
 
 ::: callout-note
