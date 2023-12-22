@@ -5,7 +5,7 @@ title: "Sprint 2 - Intención Estratégica y Proceso de Creación"
 
 # Apertura del Sprint
 
-![](images/CLIP - Incubation Program-Sprint 2.png){fig-align="center"}
+![](images/CLIP%20-%20Incubation%20Program-Sprint%202.png){fig-align="center"}
 
 Bienvenidos al segundo sprint del CLIP-USACH. Ahora vamos a focalizarnos en la Intención Estratégica y el Proceso de Creación en los Espacios de Innovación.
 
@@ -33,9 +33,17 @@ Asimismo, les compartimos los contenidos y los workshops que deben llevarse a ca
 
 4.  Y por último, ponemos a disposición **lecturas complementarias** para quienes estén interesados en profundizar en los temas abordados en este sprint.
 
+::: callout-important
+## IMPORTANTE!
+
+Proximante podrán consultar la grabación completa del webinar del 20 de diciembre. Mientras tanto, aquí pueden acceder a la presentación sobre las Competencias para la Sostenibilidad.
+:::
+
+{{< pdf PPTs/SustainabilityCompetences.pdf width=100% height=400 >}}
+
 ------------------------------------------------------------------------
 
-# Algunos antecedentes sobre la Intención Estratégica y Proceso de Creación en los Espacios de Innovación
+# Algunos antecedentes sobre la Intención Estratégica y el Proceso de Creación en los Espacios de Innovación
 
 Según Moultrie et al.[-@Moultrie2007], diseñar un espacio de innovación “facilita el desarrollo de habilidades únicas, permite adaptar las capacidades existentes a demandas cambiantes y promueve sinergias entre competencias y saberes”. Sin embargo, rara vez las organizaciones definen metas estratégicas explícitas al crear sus espacios o laboratorios de innovación. A menudo, estas iniciativas surjen por el impulso de individuos o pequeños equipos con gran capacidad de convencimiento y una pasión genuina por la innovación. Sin emargo, tanto académicos como expertos en el tema concuerdan en que contar con una intención estratégica clara y compartida puede evitar que los espacios de innovación se reduzcan a lugares sin alma o se conviertan en simples "teatros de innovación" sin un propósito real.
 
@@ -99,21 +107,21 @@ Giovanny Arbelaez, de la Université de Lorraine, ofrece un ejemplo detallado de
 
 # Team Workshops
 
-Cada espacio de innovación puede encontrar aquí el enlace al taller del Sprint 1:
+Cada espacio de innovación puede encontrar aquí el enlace a los talleres del Sprint 2:
 
-1.  **Espacio Innovación Amengual** - [Team Workshop 2](https://miro.com/app/board/uXjVNA3Dp24=/?playRecording=4a495663-4bf4-4d18-b83d-cdc5bbb7fe02) - Team Workshop 3
+1.  **Espacio Innovación Amengual** - [Team Workshop 2](https://miro.com/app/board/uXjVNA3Dp24=/?playRecording=4a495663-4bf4-4d18-b83d-cdc5bbb7fe02) - [Team Workshop 3](https://miro.com/app/board/uXjVNAbxNJQ=/?playRecording=7c93afb2-ac15-4e1a-924b-c7db6c194fe4)
 
-2.  **Centro Innovación FING** - [Team Workshop 2](https://miro.com/app/board/uXjVNA3Dp3M=/?playRecording=4a495663-4bf4-4d18-b83d-cdc5bbb7fe02) - Team Workshop 3
+2.  **Centro Innovación FING** - [Team Workshop 2](https://miro.com/app/board/uXjVNA3Dp3M=/?playRecording=4a495663-4bf4-4d18-b83d-cdc5bbb7fe02) - [Team Workshop 3](https://miro.com/app/board/uXjVNAbxNKI=/?playRecording=7c93afb2-ac15-4e1a-924b-c7db6c194fe4)
 
-3.  **CIESCOOP** - [Team Workshop 2](https://miro.com/app/board/uXjVNA3Dp3k=/?playRecording=4a495663-4bf4-4d18-b83d-cdc5bbb7fe02) - Team Workshop 3
+3.  **CIESCOOP** - [Team Workshop 2](https://miro.com/app/board/uXjVNA3Dp3k=/?playRecording=4a495663-4bf4-4d18-b83d-cdc5bbb7fe02) - [Team Workshop 3](https://miro.com/app/board/uXjVNAbxNUY=/?playRecording=7c93afb2-ac15-4e1a-924b-c7db6c194fe4)
 
-4.  **LEIND USACH** - [Team Workshop 2](https://miro.com/app/board/uXjVNA3Dpwk=/?playRecording=4a495663-4bf4-4d18-b83d-cdc5bbb7fe02) - Team Workshop 3
+4.  **LEIND USACH** - [Team Workshop 2](https://miro.com/app/board/uXjVNA3Dpwk=/?playRecording=4a495663-4bf4-4d18-b83d-cdc5bbb7fe02) - [Team Workshop 3](https://miro.com/app/board/uXjVNAbxNVI=/?playRecording=7c93afb2-ac15-4e1a-924b-c7db6c194fe4)
 
-5.  **LEMAA** - [Team Workshop 2](https://miro.com/app/board/uXjVNA3Dpxs=/?playRecording=4a495663-4bf4-4d18-b83d-cdc5bbb7fe02) - Team Workshop 3
+5.  **LEMAA** - [Team Workshop 2](https://miro.com/app/board/uXjVNA3Dpxs=/?playRecording=4a495663-4bf4-4d18-b83d-cdc5bbb7fe02) - [Team Workshop 3](https://miro.com/app/board/uXjVNAbxNQM=/?playRecording=7c93afb2-ac15-4e1a-924b-c7db6c194fe4)
 
-6.  **Physalis** - [Team Workshop 2](https://miro.com/app/board/uXjVNA3Dpyo=/?playRecording=4a495663-4bf4-4d18-b83d-cdc5bbb7fe02) - Team Workshop 3
+6.  **Physalis** - [Team Workshop 2](https://miro.com/app/board/uXjVNA3Dpyo=/?playRecording=4a495663-4bf4-4d18-b83d-cdc5bbb7fe02) - [Team Workshop 3](https://miro.com/app/board/uXjVNAbxNRU=/?playRecording=7c93afb2-ac15-4e1a-924b-c7db6c194fe4)
 
-7.  **PSINOP** - [Team Workshop 2](https://miro.com/app/board/uXjVNA3Dpzk=/?playRecording=4a495663-4bf4-4d18-b83d-cdc5bbb7fe02) - Team Workshop 3
+7.  **PSINOP** - [Team Workshop 2](https://miro.com/app/board/uXjVNA3Dpzk=/?playRecording=4a495663-4bf4-4d18-b83d-cdc5bbb7fe02) - [Team Workshop 3](https://miro.com/app/board/uXjVNAbxNS0=/?playRecording=7c93afb2-ac15-4e1a-924b-c7db6c194fe4)
 
 # Compartiendo Experiencias
 
