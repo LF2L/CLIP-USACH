@@ -41,6 +41,25 @@ Proximante podrán consultar la grabación completa del webinar del 20 de diciem
 
 {{< pdf PPTs/SustainabilityCompetences.pdf width=100% height=400 >}}
 
+
+::: callout-tip
+## Competencias para la Sostenibilidad
+
+
+::: {layout="[15,-2,10]" layout-valign="center"}
+
+Pueden encontrar el reporte completeo en la pagina de la Union Europea. 
+[Aqui un vinculo con la version en Español](https://op.europa.eu/en/publication-detail/-/publication/bc83061d-74ec-11ec-9136-01aa75ed71a1/language-es).
+GreenComp identifica un conjunto de competencias en materia de sostenibilidad para alimentar los programas educativos y ayudar a los alumnos a desarrollar conocimientos, habilidades y actitudes que promuevan formas de pensar, planificar y actuar con empatía, responsabilidad y cuidado de nuestro planeta y de la salud pública. 
+
+![](images/JRC-Greencomp.jpeg){width="80%"}
+
+
+:::
+
+:::
+
+
 ------------------------------------------------------------------------
 
 # Algunos antecedentes sobre la Intención Estratégica y el Proceso de Creación en los Espacios de Innovación
