@@ -1,11 +1,87 @@
 ---
-title: "Physical Embodiment"
+title: "Sprint 3 - Materialización"
 subtitle: ""
 ---
 
-::: {.callout-note}
-# 🕦 Disponible en Enero 2024
-::
+# Apertura del Sprint
 
+![](images/CLIP%20-%20Incubation%20Program-Sprint%203.png){fig-align="center"}
 
-<iframe src="https://giphy.com/embed/0U7bWQK9s75PjRKcHz" width="480" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p></p>
+Bienvenidos al tercer sprint del CLIP-USACH. Ahora vamos a focalizarnos en transformar la visión del espacio de innovación en una hoja de ruta tecnológica articulando competencias y recursos.
+
+::: callout-note
+## Objetivo del Sprint 3
+
+El objectivo principal de este Sprint es:
+
+Transformar la **Visión del espacio de innovación en una hoja de ruta tecnológica articulando competencias y recursos**
+
+> *Fechas del sprint: **Desde el 06/03/24 al 26/03/24***
+:::
+
+El encuentro sincrónico de este sprint se realizará el 06 de marzo. La presencia de todos los CLIP Teams es muy importante.
+
+Asimismo, les compartimos los contenidos y los workshops que deben llevarse a cabo para completar este tercer sprint:
+
+1.  En primer lugar, tendrán a su disposición **dos videos conceptuales**. Estos están diseñados para (a) explicar la importancia de definir una estrategia y ruta tecnológica para para su Espacio de Innovación y (b) cómo se articulan todos los recursos y compentencias a través de un proceso de innovación claramente definido.
+
+2.  Seguidamente, encontrarán el enlace al **workshop de este sprint**. Este workshop está diseñado para ser realizado de forma grupal antes del cierre del sprint (16 de enero). Durante la realización del taller deberán asignar a un integrante del equipo como facilitador de la actividad.
+
+3.  Y por último, ponemos a disposición **lecturas complementarias** para quienes estén interesados en profundizar en los temas abordados en este sprint.
+
+------------------------------------------------------------------------
+
+# Algunos antecedentes sobre la Materialización de un Espacio de Innovación
+
+La materialización de un espacio de innovación en sí abarca todas las características del entorno físico (o virtual). El diseño del espacio puede variar significativamente, con diferentes matices de diseño y flexibilidad; también hay que tener en cuenta la forma en que evoluciona el espacio. Los distintos espacios de innovación contienen diversos niveles de recursos físicos, desde la infraestructura informática, el apoyo a la creación y demonstración de prototipos hasta el mobiliario y equipamiento. Cada instalación responde a limitaciones específicas, como los recursos y el espacio espacio disponible, las competencias y la proyección en el tiempo [@Osorio2019]. En este sentido, siempre se debe pensar en la materialización física de un espacio de innovación en términos de su uso, su proceso de creación e intenciones.
+
+Esto significa que un espacio de innovación que busca fomentar el trabajo en equipo probablemente debería priorizar espacios de trabajo flexibles y áreas sociales, mientras que otro que tiene como objetivo generar ideas radicales puede enfatizar el carácter lúdico junto con el suministro de múltiples fuentes de inspiración [@Caccamo2020; @Klooker2019].
+
+Algunos aspectos clave a considerar al guiar la materialización de un espacio de innovación son [@Osorio2021]:
+
+| **Criterios**                  | **Descripción**                                                                                                                                                                            |
+|------------------|------------------------------------------------------|
+| Ubicación geográfica           | La ubicación física del espacio y su relación con la propia organización. Puede tratarse de un espacio interno dentro de la propia organización o de instalaciones externas de un tercero. |
+| Escala o tamaño                | El área donde se encuentra el espacio.                                                                                                                                                     |
+| Presencialidad vs Virtualidad  | El grado en que el espacio está diseñado en torno al trabajo en equipo y la comunicación en línea.                                                                                         |
+| Flexibilidad                   | El grado de flexibilidad del espacio para permitir configuraciones y usos alternativos. El grado de flexibilidad/reconfigurabilidad de los recursos del espacio de trabajo.                |
+| Valores y diseño               | El uso de elementos de diseño específicos para fomentar comportamientos concretos. El uso de imágenes y símbolos para reforzar las acciones.                                               |
+| Recursos digitales             | Los recursos digitales que deben estar disponibles para facilitar el trabajo en grupo, las actividades y el proceso de innovación.                                                         |
+| Datos y fuentes de información | La disponibilidad de datos y fuentes información para apoyar las actividades de creatividad y diseño.                                                                                      |
+| Prototipado y Demonstración    | Disponibilidad de equipos, instalaciones y herramientas para apoyar las actividades de prototipado y visualización para apoyar los procesos creativos y de diseño.                         |
+| Limitaciones                   | Posibles limitaciones técnicas y administrativas que dificulten el diseño del espacio.                                                                                                     |
+| Evolución                      | El grado en que se prevé una evolución del espacio de innovación en el corto, mediano y largo plazo.                                                                                       |
+
+: Materialización - Criterios de orientación para la materialización de los espacios de innovación
+
+# Videos Conceptuales
+
+## Por qué definir una estrategia de recursos tecnológicos para su espacio de innovación? - Brunelle Marche
+
+{{< video https://youtu.be/RDJP8_jOMJ4?si=LperEKhGvU-1IjnV >}}
+
+Brunelle Marche, de la Université de Lorraine, explica el concepto de Estrategia Tecnológica como medio para identificar los recursos, capacidades e infraestructuras clave para la sostenibilidad de una organización. Este enfoque prospectivo es decisivo en entornos que cambian rápidamente y presentan una gran incertidumbre como en los espacios de innovación. El contenido de este video está basado en [@Boly2018; @Marche2017].
+
+## Articulando recursos y competencias a través del enfoque Fab Living Lab - Laurent Dupont
+
+{{< video https://youtu.be/mZiDQqsgjZA?si=ujuaMAEIuDSPQw-0 >}}
+
+Laurent Dupont presenta el Lorraine Fab Living Lab® (LF2L) y el modo en que esta plataforma apoya los procesos de innovación colaborativa en el corazón de la Université de Lorraine y la región de Grand Est en Francia. Este video desarrolla los principios y motivaciones que llevaron a la concepción del enfoque Fab Living Lab y cómo permite la articulación de los recursos y competencias de manera colaborativa. Si quieren profundizar sobre este enfoque pueden dar un vistazo a las publicaciones [@Dupont2016; @Dupont2015].
+
+# Team Workshops
+
+Cada espacio de innovación puede encontrar aquí el enlace a los talleres del Sprint 3:
+
+1.  **Espacio Innovación Amengual** - Team Workshop 4 - [Parte 1](https://miro.com/app/board/uXjVNk0OSis=/?playRecording=821dd0a4-1870-4da6-804a-42d99d377507)
+
+2.  **Centro Innovación FING** - Team Workshop 4 - [Parte 1](https://miro.com/app/board/uXjVNk7mjxY=/?playRecording=821dd0a4-1870-4da6-804a-42d99d377507)
+
+3.  **CIESCOOP** - Team Workshop 4 - [Parte 1](https://miro.com/app/board/uXjVNk7TWeQ=/?playRecording=821dd0a4-1870-4da6-804a-42d99d377507)
+
+4.  **LEIND USACH** - Team Workshop 4 - [Parte 1](https://miro.com/app/board/uXjVNk7S-0w=/?playRecording=821dd0a4-1870-4da6-804a-42d99d377507)
+
+5.  **LEMAA** - Team Workshop 4 - [Parte 1](https://miro.com/app/board/uXjVNk6sdfs=/?playRecording=821dd0a4-1870-4da6-804a-42d99d377507)
+
+6.  **Physalis** - Team Workshop 4 - [Parte 1](https://miro.com/app/board/uXjVNk7Zv20=/?playRecording=821dd0a4-1870-4da6-804a-42d99d377507)
+
+7.  **PSINOP** - Team Workshop 4 - [Parte 1](https://miro.com/app/board/uXjVNk66T5Q=/?playRecording=821dd0a4-1870-4da6-804a-42d99d377507)
