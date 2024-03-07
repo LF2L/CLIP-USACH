@@ -29,6 +29,14 @@ Asimismo, les compartimos los contenidos y los workshops que deben llevarse a ca
 
 3.  Y por último, ponemos a disposición **lecturas complementarias** para quienes estén interesados en profundizar en los temas abordados en este sprint.
 
+::: callout-important
+## IMPORTANTE!
+
+Aquí pueden consultar el webinar de la apertura del sprint 3, realizada el pasado 6 de marzo de 2024.
+:::
+
+{{< video https://youtu.be/YZyupscsdCQ?si=D97HSQTUu3BBjjTw >}}
+
 ------------------------------------------------------------------------
 
 # Algunos antecedentes sobre la Materialización de un Espacio de Innovación

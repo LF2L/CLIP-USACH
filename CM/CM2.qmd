@@ -36,10 +36,10 @@ Asimismo, les compartimos los contenidos y los workshops que deben llevarse a ca
 ::: callout-important
 ## IMPORTANTE!
 
-Proximante podrán consultar la grabación completa del webinar del 20 de diciembre. Mientras tanto, aquí pueden acceder a la presentación sobre las Competencias para la Sostenibilidad.
+Aquí puedes consultar la grabación completa del webinar del 20 de diciembre.
 :::
 
-{{< pdf PPTs/SustainabilityCompetences.pdf width=100% height=400 >}}
+{{< video https://youtu.be/6ggjE2Be3DE >}}
 
 ::: callout-tip
 ## Competencias para la Sostenibilidad
