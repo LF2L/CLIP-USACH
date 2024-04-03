@@ -23,9 +23,9 @@ El encuentro sincrónico de este sprint se realizará el 06 de marzo. La presenc
 
 Asimismo, les compartimos los contenidos y los workshops que deben llevarse a cabo para completar este tercer sprint:
 
-1.  En primer lugar, tendrán a su disposición **dos videos conceptuales**. Estos están diseñados para (a) explicar la importancia de definir una estrategia y ruta tecnológica para para su Espacio de Innovación y (b) cómo se articulan todos los recursos y compentencias a través de un proceso de innovación claramente definido.
+1.  En primer lugar, tendrán a su disposición **dos videos conceptuales**. Estos están diseñados para (a) explicar la importancia de definir una estrategia y ruta tecnológica para para su Espacio de Innovación y (b) cómo se articulan todos los recursos y competencias a través de un proceso de innovación claramente definido.
 
-2.  Seguidamente, encontrarán el enlace al **workshop de este sprint**. Este workshop está diseñado para ser realizado de forma grupal antes del cierre del sprint (16 de enero). Durante la realización del taller deberán asignar a un integrante del equipo como facilitador de la actividad.
+2.  Seguidamente, encontrarán el enlace al **workshop de este sprint**. Este workshop está diseñado para ser realizado de forma grupal antes del cierre del sprint (26 de marzo). Durante la realización del taller deberán asignar a un integrante del equipo como facilitador de la actividad.
 
 3.  Y por último, ponemos a disposición **lecturas complementarias** para quienes estén interesados en profundizar en los temas abordados en este sprint.
 
@@ -48,7 +48,7 @@ Esto significa que un espacio de innovación que busca fomentar el trabajo en eq
 Algunos aspectos clave a considerar al guiar la materialización de un espacio de innovación son [@Osorio2021]:
 
 | **Criterios**                  | **Descripción**                                                                                                                                                                            |
-|------------------|------------------------------------------------------|
+|-------------------|-----------------------------------------------------|
 | Ubicación geográfica           | La ubicación física del espacio y su relación con la propia organización. Puede tratarse de un espacio interno dentro de la propia organización o de instalaciones externas de un tercero. |
 | Escala o tamaño                | El área donde se encuentra el espacio.                                                                                                                                                     |
 | Presencialidad vs Virtualidad  | El grado en que el espacio está diseñado en torno al trabajo en equipo y la comunicación en línea.                                                                                         |

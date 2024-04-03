@@ -1,12 +1,134 @@
 ---
-title: "Process of Use & Outcomes"
+title: "Sprint 4 - Proceso de uso"
 subtitle: ""
 ---
 
-::: {.callout-note}
-# 🕦 Disponible en Febrero 2024
+# Apertura del Sprint
+
+![](images/CLIP%20-%20Incubation%20Program-Sprint%204.png){fig-align="center"}
+
+Les damos la bienvenida al sprint 4 del CLIP-USACH. En este sprint vamos a seguir focalizados en trazar la hoja de ruta de nuestro espacio de innovación articulando competencias y recursos. Adicionalmente centraremos la atención en cómo estos espacios pueden evolucionar en el tiempo e integrarse a la misiones de la universidad.
+
+::: callout-note
+## Objetivo del Sprint 3
+
+El objectivo principal de este Sprint es:
+
+Diseñar del modelo de funcionamiento del espacio de innovación y explorar las prácticas de su integración a la misiones de la universidad
+
+> *Fechas del sprint: **Desde el 27/03/24 al 23/04/24***
 :::
 
+El encuentro sincrónico de este sprint se realizará el 27 de marzo. La presencia de todos los CLIP Teams es muy importante.
 
+Asimismo, les compartimos los contenidos y los workshops que deben llevarse a cabo para completar el cuarto sprint:
 
-<iframe src="https://giphy.com/embed/0U7bWQK9s75PjRKcHz" width="480" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p></p>
+1.  Primero tendrán a su disposición **dos videos conceptuales**. Estos están diseñados para (a) ilustrar cómo un espacio de innovación es un vehículo para desarrollar prácticas de transferencia tecnológica incrementales; (b) cómo lo espacios de innovación en las universidades son actores clave para la cocreación y el fomento de innovación sostenible según la OECD.
+
+2.  Segundo, encontrarán de nuevo el enlace al **workshop 4** para concentrarse en la finalización de la hoja de ruta. Este workshop está diseñado para ser realizado de forma grupal antes del cierre del sprint (23 de abril). Durante la realización del taller deberán asignar a un integrante del equipo como facilitador de la actividad.
+
+3.  Adicionalmente, para este sprint encontrarán una **guía para presentar los resultados de la hoja de ruta en la forma de un pitch**. Este pitch será presentado con la participación de algunos invitados externos el día **24 de abril**.
+
+4.  Y por último, ponemos a disposición **lecturas complementarias** para quienes estén interesados en profundizar en los temas abordados en este sprint.
+
+::: callout-important
+## IMPORTANTE!
+
+Aquí pueden consultar el webinar de la apertura del sprint 4, realizada el pasado 27 de marzo de 2024.
+:::
+
+{{< video https://youtu.be/MBvdkS3jg1I?si=e9WCCL-F_USzx8wJ >}}
+
+::: callout-tip
+## OPCIONAL
+
+Si lo desean, pueden acceder al estudio de caso completo sobre el ViveLab Bogotá (hoy en día Lab101) en el siguiente artículo [@Osorio2020].
+
+Adicionalmente, pueden pueden consultar las slides la construcción de escenarios aquí:
+:::
+
+{{< pdf PPTs/BuldingProspectiveScenarios.pdf width=100% height=400 >}}
+
+------------------------------------------------------------------------
+
+# Algunas consideraciones sobre el Proceso de Uso de un Espacio de Innovación
+
+Los espacios de innovación están sujetos a condiciones muy volátiles y cambiantes que pueden dar lugar a usos y actividades nuevas o inesperadas. La forma en que se fomenta realmente la innovación, qué actividades para el fomento de la creatividad, qué tipo de proyectos se realizan en el espacio o hasta qué punto el espacio de innovación mismo permite favorece el trabajo en equipo son algunos de los elementos a tener en cuenta. Pero lo más importante es tener la sensibilidad de contrastar continuamente cuánto ha cambiado nuestra el funcionamiento del espacio en comparación con la intención estratégica inicial y el proceso de creación previsto. Ser flexible pero estar atento a la évolución del espacio de innovación puede ser útil para comprender sus posibles roles y su potencial para integrarse constantemente en las misiones de la Universidad. Los siguientes son algunos de los aspectos más importantes que orientan el proceso de uso de un espacio de innovación [@Moultrie2007; @Osorio2019]:
+
+| **Criterios**                   | **Descripción**                                                                                                                                                                                           |
+|---------------|---------------------------------------------------------|
+| Fomento de la innovación        | Las etapas del proceso de innovación en las que se está utilizando concretamente el espacio de innovación                                                                                                 |
+| Fomento de la creatividad       | La forma en que el laboratorio facilita las actividades de cocreación y prototipado                                                                                                                       |
+| Usuarios y facilitadores reales | Los usuarios o comunidades que realmente tienen cabida y usan en el espacio de innovación. El grado de facilitación realmente necesario para las actividades realizadas en y por el espacio de innovación |
+| Facilitar el trabajo en equipo  | El papel real del espacio para hacer posible el trabajo en equipo tanto presencial como virtual                                                                                                           |
+| Tipos de eventos o actividades  | El tipo de eventos que efectivamente tienen lugar en o son organizados el espacio de innovación                                                                                                           |
+
+: Proceso de uso - Criterios de orientación para orientar el proceso de uso de los espacios de innovación
+
+Al referirnos a los espacios de innovación, es natural esperar que su actividad dé lugar a algún tipo de resultado "innovador". Sin embargo, debido a su naturaleza intermediaria, los resultados de un espacio de innovación no siempre son fáciles de reconocer o valorar. Más allá de esto, está claro que la actividad de los espacios de innovación desencadena un conjunto de procesos co-creación y de innovación que involucran a sus comunidades y que, en última instancia, dan lugar a testimonios positivos e historias convincentes. Por lo tanto, al referirse a los resultados de un espacio de innovación es importante considerar tanto sus resultados tangibles como intangibles que sean novedosos, replicables y de utilidad en su contexto o territorio [@Moultrie2007; @Osorio2019].
+
+| **Criterios**                                    |
+|--------------------------------------------------|
+| Resultados tangibles                             |
+| Resultados intangibles                           |
+| Grado de realización de la intención estratégica |
+
+: Resultados - Criterios de orientación para apreciar los resultados de los espacios de innovación
+
+# Videos Conceptuales
+
+## Transferencia incremental de tecnología - Mauricio Camargo
+
+{{< video https://youtu.be/7zRB11Fxt50?si=vGFaeJwlb3HSH5g- >}}
+
+¿Cómo crear vínculos más fuertes entre la universidad y la sociedad? En esta ocasión Mauricio Camargo aborda esta pregunta a través de la noción de fomentar la transferencia progresiva de tecnología para alcanzar una sólida colaboración universidad-industria-sociedad. El Profesor Mauricio comparte detalles sobre el rol que juegan los espacios de innovación como el Lorraine Fab Living Lab en la articulación y colaboración con empresas y actores locales a diferentes niveles de pedagogía, investigación y vinculación. El contenido de este video está basado en [@Camargo2021].
+
+## Desbloqueando la cocreación para la innovación sostenible - Muthu De Silva
+
+{{< video https://youtu.be/7zSNuUrGHaM?feature=shared >}}
+
+La profesora Muthu De Silva, de la University of London, nos ha autorizado para compartir con ustedes su presentación sobre los resultados del informe de la OCDE "Unlocking Co-creation for Green Innovation". En este estudio, la profesora De Silva aborda diferentes casos de iniciativas de co-creación en universidades, incluyendo espacios de innovación, en ámbitos como mobilidad, energía y productos, servicios y procesos sostenibles. Una serie de lineamientos para política pública y mejores prácticas son presentados como resultado de este estudio comparativo internacional. Pueden acceder al estudio completo y darle une vistazo a los diferentes casos en [@deSilva2023].
+
+# Team Workshops
+
+Cada espacio de innovación puede encontrar aquí el enlace al taller del Sprint 4. Recuerden, el objetivo es finalizar la hoja de ruta de su espacio de innovación con base al análisis competencias y recursos clave, el análisis externo y la prospectiva iniciado en el sprint anterior.
+
+1.  **Espacio Innovación Amengual** - Team Workshop 4 - [Parte 2](https://miro.com/app/board/uXjVNk0OSis=/?playRecording=821dd0a4-1870-4da6-804a-42d99d377507)
+
+2.  **Centro Innovación FING** - Team Workshop 4 - [Parte 2](https://miro.com/app/board/uXjVNk7mjxY=/?playRecording=821dd0a4-1870-4da6-804a-42d99d377507)
+
+3.  **CIESCOOP** - Team Workshop 4 - [Parte 2](https://miro.com/app/board/uXjVNk7TWeQ=/?playRecording=821dd0a4-1870-4da6-804a-42d99d377507)
+
+4.  **LEIND USACH** - Team Workshop 4 - [Parte 2](https://miro.com/app/board/uXjVNk7S-0w=/?playRecording=821dd0a4-1870-4da6-804a-42d99d377507)
+
+5.  **LEMAA** - Team Workshop 4 - [Parte 2](https://miro.com/app/board/uXjVNk6sdfs=/?playRecording=821dd0a4-1870-4da6-804a-42d99d377507)
+
+6.  **Physalis** - Team Workshop 4 - [Parte 2](https://miro.com/app/board/uXjVNk7Zv20=/?playRecording=821dd0a4-1870-4da6-804a-42d99d377507)
+
+7.  **PSINOP** - Team Workshop 4 - [Parte 2](https://miro.com/app/board/uXjVNk66T5Q=/?playRecording=821dd0a4-1870-4da6-804a-42d99d377507)
+
+# Construye el Pitch de tu Espacio de Innovación
+
+El resultado final de este sprint consiste en redondear el diseño estratégico del espacio de innovación y estar preparado para comunicar su intención a sus aliados y partes interesadas. Por lo tanto, la tarea final de este cuarto sprint es preparar un pitch para presentar tu espacio de innovación en 3 minutos ante un panel de invitados dispuestos a ofrecerte un feedback constructivo. Para ello, hemos preparado una guía especial, un paso a paso que les ayudará en el proceso de construcción de su pitch:
+
+1.  Construye tu pitch **Espacio Innovación Amengual** - [Guía](https://clip-ensgsi.notion.site/Construye-tu-Pitch-fe3cb9e6dbc64c7995a127871bc6bfa1?pvs=4)
+
+2.  Construye tu pitch **Centro Innovación FING** - [Guía](https://clip-ensgsi.notion.site/Construye-tu-Pitch-f64c41c4db2a48fab8db48aea2616916?pvs=4)
+
+3.  Construye tu pitch **CIESCOOP** - [Guía](https://clip-ensgsi.notion.site/Construye-tu-Pitch-7ad957825ede407d9241a7fdad2fecf9?pvs=4)
+
+4.  Construye tu pitch **LEIND USACH** - [Guía](https://clip-ensgsi.notion.site/Construye-tu-Pitch-3a1c376c05664c14b6bd5f61499115f6?pvs=4)
+
+5.  Construye tu pitch **LEMAA** - [Guía](https://clip-ensgsi.notion.site/Construye-tu-Pitch-5bb928b7a2c44ec5a27237d8c04931f5?pvs=4)
+
+6.  Construye tu pitch **Physalis** - [Guía](https://clip-ensgsi.notion.site/Construye-tu-Pitch-3d3ecd9a984f40ae85dc82b7a115ed5c?pvs=4)
+
+7.  Construye tu pitch **PSINOP** - [Guía](https://clip-ensgsi.notion.site/Construye-tu-Pitch-f22abfc219d44d9998a1b3360e564c55?pvs=4)
+
+***Esta guía está basada en:***
+
+-   *Morlet, C. & Deloupy, B. (2018). Outil 11. Générez un impact en deux minutes : le pitch. Dans : , C. Morlet & B. Deloupy (Dir), La boîte à outils du Speaker-Conférencier (pp. 44-47). Paris: Dunod.*
+
+-   *Morgan, W. R., & Wright, E. S. (2021). Ten simple rules for hitting a home run with your elevator pitch. PLoS Computational Biology, 17(3), 1–5. <https://doi.org/10.1371/JOURNAL.PCBI.1008756>*
+
+-   *EF Venturas, (2021) Aprende cómo construir un pitch ganador*
