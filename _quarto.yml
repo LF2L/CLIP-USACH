@@ -83,7 +83,7 @@ website:
         - CM/CM2.qmd
         - CM/CM3.qmd
         - CM/CM4.qmd
-#        - CM/CM5.qmd        
+        - CM/CM5.qmd        
 #        - CM/CM6.qmd                
     # - title: "Travaux Dirigés"
     #   style: "floating"

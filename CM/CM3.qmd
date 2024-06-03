@@ -48,7 +48,7 @@ Esto significa que un espacio de innovación que busca fomentar el trabajo en eq
 Algunos aspectos clave a considerar al guiar la materialización de un espacio de innovación son [@Osorio2021]:
 
 | **Criterios**                  | **Descripción**                                                                                                                                                                            |
-|-------------------|-----------------------------------------------------|
+|--------------------|----------------------------------------------------|
 | Ubicación geográfica           | La ubicación física del espacio y su relación con la propia organización. Puede tratarse de un espacio interno dentro de la propia organización o de instalaciones externas de un tercero. |
 | Escala o tamaño                | El área donde se encuentra el espacio.                                                                                                                                                     |
 | Presencialidad vs Virtualidad  | El grado en que el espacio está diseñado en torno al trabajo en equipo y la comunicación en línea.                                                                                         |

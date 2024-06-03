@@ -1,12 +1,83 @@
 ---
-title: "Assessment & Adaptation"
+title: "Sprint 5 - Evaluación y adaptación"
 subtitle: ""
 ---
 
-::: {.callout-note}
-# 🕦 Disponible en Marzo 2024
+# Apertura del Sprint
+
+Este es el quinto sprint del CLIP-USACH. Aquí la atención va a estar centrada en la Evaluación y Adaptación de los espacios de innovación.
+
+![](images/CLIP%20-%20Incubation%20Program-Sprint%205.png){fig-align="center"}
+
+En este sprint los CLIP Teams se centrarán en presentar su pitch a un panel de invitados expertos. Esta sesión se celebrará el 24 de abril y todos los CLIP Teams tendrán la oportunidad de presentar la intención estratégica de su espacio de innovación en 3 minutos, seguido de un intercambio de impresiones con nuestros invitados.
+
+::: callout-note
+## Objetivo del Sprint 5
+
+El objectivo principal de este Sprint es:
+
+Evaluar el desempeño de un espacio de innovación y explorar prácticas para un trabajo más creativo, resiliente y responsable
+
+> *Fechas del sprint: **Desde el 24/04/24 al 20/05/24***
+
+Este sprint cuenta con dos encuentros sincrónicos que se realizarán el **24 de abril** y el **7 de mayo**. 
+
+La presencia de todos los CLIP Teams es muy importante.
+:::
+
+
+Asimismo, les compartimos los contenidos y las actividades que deben llevarse a cabo para completar el quinto sprint:
+
+1.  En esta oportunidad ponemos a disposición **dos videos conceptuales**. Nuestros colegas Manon Enjolras y Alex Gabriel comparten con nosotros (a) cómo integrar procesos de toma de decisión collectiva y collaborativa en proyectos de innovación; y (b) introducir técnicas de realidad mixta para enriquecer los processos pedágogicos y de appropiación de los espacios de innovación.
+
+2.  Después, el team workshop de este sprint está dedicado a la presentación del pitch y al posterior perfeccionamiento y finalización de los talleres anteriores. Este pitch se llevará a cabo con la participación de algunos invitados externos el día **24 de abril**.
+
+3.  Finalmente, el día 7 de mayo se llevará a cabo una sesión sincrónica en donde discutiremos sobre cómo abordar el impacto de los espacios de innovación en los ecosistemas en donde se insertan. Esta sesión se llevará a cabo el **7 de mayo**.
+
+4.  Y por último, dejamos a disposición **lecturas complementarias** para quienes estén interesados en profundizar en los temas abordados en este sprint.
+
+::: callout-important
+## IMPORTANTE!
+
+Aquí pueden consultar la grabación de la sesión de pitchs realizada el pasado 24 de marzo de 2024.
+
+{{< video https://youtu.be/BhRE9HrlBeA >}}
 :::
 
 
 
-<iframe src="https://giphy.com/embed/0U7bWQK9s75PjRKcHz" width="480" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p></p>
+::: callout-important
+## IMPORTANTE!
+
+Aquí pueden consultar la grabación de nuestro último webinar realizado el 7 de mayo de 2024.
+
+{{< video https://youtu.be/LUnUlabsXuY >}}
+:::
+
+------------------------------------------------------------------------
+
+# Algunos antecedentes sobre la Evaluación y Adaptación de un Espacio de Innovación
+
+Diseñar, gestionar y mantener en vida un lab de innovación es una tarea ardua. Muchas iniciativas de espacios de innovación están orientadas a proyectar el futuro desde su creación, esto significa que estos espacios son concebidos para "demostrar nuevas formas de hacer las cosas".
+
+Sin embargo, lo que hoy parece futurista puede quedar obsoleto con el rápido ritmo de los avances sociotecnológicos. Esto significa que los equipos de gestión de los espacios de innovación tienen que reinventarse introduciendo nuevos métodos, prácticas o tecnologías, así como repensando su configuración o incluso redefiniendo su propósito [@Rayna2019; @Magadley2009; @Osorio2020]. Esto también implica que el equipo de un espacio de innovación debe ser consciente de desarrollar herramientas y procesos de retroalimentación para que esta reinvención y renovación continua pueda ocurrir periódicamente [@Coffay2022].
+
+El marco metodológico que guió este programa de incubación -Intención Estratégica, Proceso de Creación, Materialización, Proceso de Uso y Resultados- se propone como una herramienta estratégica para los gestores y equipos de los espacios de innovación [@Osorio2019], no sólo para definir la intención del lab, sino también para realizar un seguimiento de lo que está sucediendo y permitir la adaptación, y eventualmente la renovación de su intención estratégica.
+
+![Marco de orientación estratégica de un espacio de innovación (Osorio et al. 2019)](images/InnoLab%20Framework%20Outline.jpeg){fig-align="center"}
+
+**Les recomendamos** que tengan presente este programa de incubación no sólo como una serie de tareas aisladas, sino como un proceso iterativo que pueden repetir periódicamente y de forma colectiva para hacer un seguimiento del progreso de su lab. Esto les ayudará a comprometer a sus aliados y partes interesadas para que sigan apoyando su espacio de innovación.
+
+# Videos Conceptuales
+
+## Fomentar la toma de decisiones colectiva en proyectos de innovación - Manon Enjolras
+
+{{< video https://youtu.be/r4edSRhjyzU >}}
+
+Manon Enjolras explica en este video cuáles son los elementos clave para crear un entorno de confianza para la toma de decisiones, especialmente en entornos colaborativos. Este vídeo se basa en el trabajo de [@Enjolras2023] .
+
+## Capacitación y apropiación en espacios de innovación a través de la realidad extendida - Alex Gabriel
+
+{{< video https://youtu.be/ROe_WRWs6KI >}}
+
+Alex Gabriel ilustra el uso de las tecnologías de realidad extendida para el aprendizaje y sus aplicaciones en los espacios de innovación. Un ejemplo adicional de la aplicación de estas tecnologías para la capacitación de usuarios a las cortadoras láser puede ser consultado [aquí](https://youtu.be/E_A1XTb-Wrc?si=1j1gulYVncmtY9ZH).

@@ -10,7 +10,7 @@ subtitle: ""
 Les damos la bienvenida al sprint 4 del CLIP-USACH. En este sprint vamos a seguir focalizados en trazar la hoja de ruta de nuestro espacio de innovación articulando competencias y recursos. Adicionalmente centraremos la atención en cómo estos espacios pueden evolucionar en el tiempo e integrarse a la misiones de la universidad.
 
 ::: callout-note
-## Objetivo del Sprint 3
+## Objetivo del Sprint 4
 
 El objectivo principal de este Sprint es:
 
@@ -56,7 +56,7 @@ Adicionalmente, pueden pueden consultar las slides la construcción de escenario
 Los espacios de innovación están sujetos a condiciones muy volátiles y cambiantes que pueden dar lugar a usos y actividades nuevas o inesperadas. La forma en que se fomenta realmente la innovación, qué actividades para el fomento de la creatividad, qué tipo de proyectos se realizan en el espacio o hasta qué punto el espacio de innovación mismo permite favorece el trabajo en equipo son algunos de los elementos a tener en cuenta. Pero lo más importante es tener la sensibilidad de contrastar continuamente cuánto ha cambiado nuestra el funcionamiento del espacio en comparación con la intención estratégica inicial y el proceso de creación previsto. Ser flexible pero estar atento a la évolución del espacio de innovación puede ser útil para comprender sus posibles roles y su potencial para integrarse constantemente en las misiones de la Universidad. Los siguientes son algunos de los aspectos más importantes que orientan el proceso de uso de un espacio de innovación [@Moultrie2007; @Osorio2019]:
 
 | **Criterios**                   | **Descripción**                                                                                                                                                                                           |
-|---------------|---------------------------------------------------------|
+|-----------------|-------------------------------------------------------|
 | Fomento de la innovación        | Las etapas del proceso de innovación en las que se está utilizando concretamente el espacio de innovación                                                                                                 |
 | Fomento de la creatividad       | La forma en que el laboratorio facilita las actividades de cocreación y prototipado                                                                                                                       |
 | Usuarios y facilitadores reales | Los usuarios o comunidades que realmente tienen cabida y usan en el espacio de innovación. El grado de facilitación realmente necesario para las actividades realizadas en y por el espacio de innovación |
