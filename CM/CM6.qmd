@@ -1,12 +1,76 @@
 ---
-title: "Pilot Project"
+title: "Sprint 6 - Pasantía en Nancy"
 subtitle: ""
 ---
 
-::: {.callout-note}
-# 🕦 Disponible en Abril 2024
+# Apertura del Sprint
+
+Este es el sexto y último sprint de nuestro CLIP-USACH. Este sprint consiste en una pasantía de una semana en la ciudad de Nancy (Francia) en dónde trabajaremos con representantes de cada CLIP team en una inmersión en la experiencia Fab Living Lab que desarrollamos en la Escuela de Ingeniería Industrial y de la Innovación (ENSGSI) y el Instituto de Investigación en Procesos de Innovación (ERPI).
+
+::: callout-note
+## Objetivo del Sprint 6
+
+El objectivo principal de esta semana de inmersión es:
+
+El paso de lo estratégico a lo operacional: aplicando el enfoque Fab Living Lab
+
+> *Fechas del sprint: **Desde el 21/05/24 al 24/05/24***
 :::
 
+En este sprint los CLIP teams concentrarán sus esfuerzos en tres ejes principalmente:
+
+1.  Vivir la experiencia Fab Living Lab a través de dos jornadas de creatividad y prototipado.
+
+2.  Una jornada de networking con pares investigadores para compartir los avances en el desarrollo de sus espacios de innovación y generación de nuevas oportunidades de colaboración internacional
+
+3.  La construcción colectiva de un mapa de impacto de la red de espacios de innovación de la USACH y la identificación de los principales ejes de acción para las próximas etapas de esta iniciativa
+
+::: callout-note
+# 📰 Aquí pueden consultar la sintésis de los momentos claves de esta pasantía
+
+<iframe src="https://vriic.usach.cl/index.php/pasantia-internacional-finaliza-con-clip-usach/" width=100% height="400" frameBorder="0" class="giphy-embed" allowFullScreen>
+
+</iframe>
+:::
+
+------------------------------------------------------------------------
+
+# Viviendo la experiencia Fab Living Lab
+
+Uno de los objetivos clave de este último sprint es permitir a los espacios de innovación poner en práctica su proceso de innovación y vivenciar cómo esto podría ser implementado en el contexto de la USACH. Para esto, dos retos locales fueron presentados los cuales sirvieron de guía durante las jornadas de creatividad y prototipado para que los representantes de los CLIP teams trabajarán conjuntamente para materializar ideas y conceptos como posibles soluciones. Los dos retos fueron (1) Promover la salud mental en entornos laborales a través innovaciones tecnológicas sostenibles y (2) Mejoramiento de edificaciones domiciliarias bajo la perspectiva de construcción sostenible. Aquí pueden consultar la descripción detallada de cada reto:
+
+{{< pdf PPTs/PropuestaDesafiosUSACH.pdf width=100% height=400 >}}
+
+## 2D - Viviendo la segunda dimensión de la innovación
+
+En base a lo anterior, la jornada de creatividad se dedicará a fomentar en los participantes el pensamiento y el proceso creativo. Se explorarán las claves para superar las barreras de la creatividad y se identificará cuándo es necesario adoptar un enfoque divergente y cuándo uno convergente. Cada idea debe ser expresada, estructurada y comunicada de forma eficaz. Por ello, al concluir esta jornada, se espera que los equipos de trabajo materialicen la propuesta de su elección en una ficha de idea y realicen una presentación breve y concisa, en la forma de un pitch.
+
+::: callout-note
+👀 El profesor Raphaël comparte con ustedes los soportes detallados de nuestra jornada en creatividad para que los puedan replicar en sus propios espacios de innovación.
+
+{{< pdf PPTs/Initiation_Creativity_Sup.pdf width=100% height=400 >}}
+
+:::
+
+## 3D/4D - El paso por la tercera y cuarta dimensión  de la innovación 
+
+Los procesos de innovación se centran en convertir rápidamente y a bajo costo los conceptos asociados a las posibles soluciones al problema o necesidad en cuestión en realidad. Es fundamental enfocarnos en el prototipado como una etapa clave no solo para materializar ideas (3D), sino también para probar y obtener retroalimentación de los usuarios y partes interesadas (4D). Durante la jornada de prototipado, nos centraremos en cómo ser recursivos y hacer el mejor uso posible de los recursos disponibles para prototipar las ideas de soluciones. Esto permitirá a nuestros colegas, usuarios y potenciales inversionistas experimentar los conceptos clave de nuestras soluciones. Al final de esta jornada, se espera que los equipos participantes realicen un video autoexplicativo del prototipo que han desarrollado.
 
 
-<iframe src="https://giphy.com/embed/0U7bWQK9s75PjRKcHz" width="480" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p></p>
+::: callout-note
+🎥 Aquí pueden ver los videos que realizaron nuestros participantes.
+
+{{< video https://youtu.be/vDv1XiqqBi8 >}}
+
+:::
+
+------------------------------------------------------------------------
+
+::: callout-note
+# Fue un gran placer recibirlos en Nancy! 📸 Compartimos con ustedes algunas imágenes de esta gran semana con ustedes.
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/195910988@N02/albums/72177720317596148" title="CLIP-USACH 2023-2024"><img src="https://live.staticflickr.com/65535/53768659403_38ed05c907_z.jpg" width=100% height="480" alt="CLIP-USACH 2023-2024"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+**Hasta pronto!**
+
+:::
